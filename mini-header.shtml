@@ -1,0 +1,44 @@
+<div id="min-head-distance"></div>
+<div class=" mini-head">	
+	<div class="container ">
+		<div class="row mini-header-slider">
+			<div class="col-md-4 col-sm-12">
+				<div class="telefonblok">
+					<p class="slogan">ПРОДВИЖЕНИЕ САЙТА, ИНТЕРНЕТ-МАГАЗИНА В МОБИЛЬНОМ ПОИСКЕ</p>
+					<div>
+						<div id="mskstring">
+							<svg version="1.1" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns="http://www.w3.org/2000/svg">
+								<use xlink:href="#icon-star"></use>
+							</svg><span class="msk">Москва</span>
+						</div>
+						<a class="tel" href="tel:+79772676484"><span>+7(977)</span> <span>267-6484</span></a>
+					</div>
+				</div>
+			</div>
+			<div class="col-md-4 col-sm-12">
+				<adress class="adress">
+					<p>Часы работы: пн-пт с 10 до 19</p><br>
+					<p>Наш адрес: Центр дизайна ARTPLAY, Москва, ул. Нижняя  Сыромятническая, 10, корпус 2, 7 этаж, офис 703</p>
+				</adress>
+			</div>
+			<div class="col-md-4 col-sm-12"><div class="market">
+				<a data-target="#modal1" class="open_modal miniheadanaliz" href="javascript:void(0)">Анализ сайта</a>
+				<div class="calc">
+					
+					
+					<a href="#">
+						<svg xmlns:xlink="http://www.w3.org/1999/xlink" xmlns="http://www.w3.org/2000/svg">
+							<use xlink:href="#calculator"></use>
+						</svg>
+						<span> Калькулятор стоимости продвижения</span></a>
+						
+					</div>
+				</div>
+			</div>
+		</div>	
+	</div>
+	<div id="mini-header-slider-block">
+		<input id="minihead-slider-checkbox" type="checkbox" checked="checked" ><label for="minihead-slider-checkbox"></label>
+	</div>
+</div>
+

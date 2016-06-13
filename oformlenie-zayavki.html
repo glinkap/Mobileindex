@@ -1,0 +1,41 @@
+<div class="container-fluid oformlenie-zayavki">
+	<div class="container">
+		<div class="row">
+			<div class="col-sm-12">
+				<h2>Оформить заявку</h2>
+			</div>
+		</div>
+		<div class="row">
+			<form>
+				<div class="col-sm-6">
+					<!-- Hidden Required Fields -->
+			<input type="hidden" name="project_name" value="Mobileindex.ru">
+			<input type="hidden" name="admin_email" value="glinkap@gmail.com">
+			<input type="hidden" name="form_subject" value="Оформление заявки из подвала">
+			<!-- END Hidden Required Fields -->
+
+			<input type="text" name="Site" placeholder="Адрес сайта" required><br>
+			<input type="text" name="E-mail" placeholder="E-mail" required><br>
+			<input type="text" name="Phone" placeholder="Телефон"><br>
+			<input type="text" name="Name" placeholder="Имя"><br>
+			<div class="block-checkboxes">
+				<span>Предпочтительный вид связи</span>
+				<div class="checkboxes">
+					<input type="checkbox" name="liketel" id="check1"><label for="check1">По телефону</label>
+				</div>
+				<div class="checkboxes">
+					<input type="checkbox" name="likeEmail" id="check2"><label for="check2">По E-mail</label>
+				</div>
+			</div>
+
+				</div>
+				<div class="col-sm-6">
+					<textarea placeholder="Комментарий" name="comment"></textarea>
+					<button class="submitbtn">Отправить</button>
+				</div>
+			</form>
+		</div>
+	</div>
+</div>
+
+

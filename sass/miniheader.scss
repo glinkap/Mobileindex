@@ -1,0 +1,215 @@
+@import "compass";
+@import "varibles";
+@import "mixin";
+/* @import "typography"; */
+
+
+.mini-header-slider {@include mf(991,0){display: none;}}
+.mini-header-slider {@include mf(9999,992){display: block !important;}}
+#mini-header-slider-block {
+	@include mf(9999,992){display: none;}
+input[type="checkbox"] {
+    position: absolute;
+    left: -9999px;
+}
+input[type="checkbox"] + label:before {
+    content: "";
+    display: inline-block;
+    width: 67px;
+    height: 67px;
+    background: url(/images/mini-header-slider-btn.svg) no-repeat;
+        position: absolute;
+    right: 30px;
+    padding-top: 10px;
+}
+input[type="checkbox"]:checked + label:before {
+    // background-position: 0 -32px;
+}
+
+
+
+
+
+
+
+
+
+
+}
+
+#min-head-distance {
+	height: $menu-height + 45;
+	background-color: $basecolor;
+}
+.mini-head {
+	@include mf(991,0) {
+		text-align: center;
+
+	}
+	.row:first-of-type {
+	  padding-top: 20px;
+  	  padding-bottom: 40px;		
+	}
+	background-color: $basecolor;
+	.row:first-of-type:before {
+		border-top: 7px solid $migreen;
+		width: 100%;
+		position: relative;		
+		top: -20px;
+		@include mf(991,0) {
+			width: calc(100% - 30px);
+			left:15px;
+		}
+
+	}
+	.row:first-of-type:after {
+		border-bottom: 7px solid $gray80;
+		width: 66.666%;
+		position: relative;	
+		bottom: -20px;		
+		@include mf(991,0) {
+			width: calc(100% - 30px);
+			left:15px;
+		}
+	}
+		.slogan {
+			line-height: 1em ;
+			margin: 0;
+			@include mf(991,0) {
+				margin-top: $mobile-padd;
+				margin-bottom: $mobile-padd;
+			}
+			@include mf(991,480) {
+				font-size: 1.5em;			
+			}
+		}
+		.telefonblok svg {
+			position: relative;
+			vertical-align: middle;
+			width: 24px;
+		    height: 24px;
+		    top: -2px;
+		}
+		.msk {
+			font-size: 1.4em;
+			text-decoration: underline;
+		}
+		@include mf(991,0) {
+		#mskstring {
+			text-align: center;
+			
+		}
+	}
+		.tel {			
+			line-height: 1em;
+			display: block;
+			@include mf(991,0) {				
+				text-align: center;				
+				border: 1px solid $gray80;
+				padding-top: $padd-btn;
+				padding-bottom: $padd-btn;
+				
+				display: block;
+				max-width: 400px;
+				margin-left: auto;
+				margin-right: auto;
+				margin-top: $mobile-padd;
+				margin-bottom: $mobile-padd - 8;
+				
+			}
+			@include mf(480,0) {
+				font-size: 1.525em;
+			}
+			font-size: 2.125em;
+			
+	   		
+	   		text-decoration: none;
+			span:nth-of-type(1) {
+				color: $gray80;
+			}
+			span:nth-of-type(2) {
+				color: $migreen;
+			}
+		}
+	
+	.adress {
+		font-size: 0.8em;
+		line-height: 1.12em;
+		margin: auto;
+		p:nth-of-type(1) {
+		margin: 0;
+		line-height: 1.12em;
+		font-size: 1.4em;
+		}
+		p:nth-of-type(2) {
+		margin: 0;	
+		}
+	}
+	.market {
+
+		.calc {
+			
+			@include mf(991,0) {
+					display: block;
+					border: 1px solid $gray80;
+					max-width: 400px;
+					margin-left: auto;
+					margin-right: auto;
+					padding: $padd-btn 0;
+					margin-top: $mobile-padd;
+					margin-bottom: $mobile-padd;
+					
+			}
+
+			@include baselinks($gray80,$gray80,$gray80,$gray80,$gray80);
+			a {
+				text-decoration: none;
+				display: block;	
+				svg {
+					display: inline-block;
+					position: relative;
+					vertical-align: middle;
+					margin-right: 10px;
+
+					width: 28px;
+					height: 44px;
+				}			
+				span {
+					display: inline-block;
+					max-width: 180px;
+					text-decoration: underline;
+					font-weight: 900;
+					vertical-align: middle;
+					@include mf(991,0) {
+						text-align: left;
+					}
+				}
+			}
+		}
+		.miniheadanaliz{		
+			display: block;
+			text-align: center;		
+			outline: none; color: #27AE60; 
+			&:visited { color: #27AE60; }
+			&:hover { color: #27AE60; background-color: $gray80 - 20}
+			&:active { color: #27AE60; }
+			&:focus { color: #27AE60; }
+			background-color: $gray80;
+			text-decoration: none;
+			max-width: 400px;
+			margin-left: auto;
+			margin-right: auto;
+			padding: $padd-btn 0;
+			margin-bottom: 10px;
+			@include mf(991,0) {
+			margin-top: $mobile-padd;
+			margin-bottom: $mobile-padd;
+			
+			}
+	}
+	}
+
+
+
+}
+

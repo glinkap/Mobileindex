@@ -1,0 +1,89 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+	<meta charset="UTF-8">
+	<title>Document</title>
+	<script src="https://ajax.googleapis.com/ajax/libs/jquery/1.11.0/jquery.min.js"></script>
+</head>
+<body>
+
+<script>
+
+var priceCalculator = new Object();
+var priceSummary = 0;
+var checkSum = 0;
+var sliderSum = 0;
+// Рэнж Слайдер
+	priceCalculator.rangeSlider = function(e) {
+	e = e || window.event;		
+	var sliderId = e.target.getAttribute("id");
+console.log("Вызвалась - priceCalculator.rangeSlider "+sliderId);
+var sliderValue = e.target.value;
+// console.log(e.target.value);
+priceCalculator.sliderPriceList(sliderValue, priceCalculator.calculate);
+sliderSum = priceCalculator.rangeSlider.sliderValue = e.target.value;
+	} 
+// Price list Ранжирование Слайдера по цене	
+priceCalculator.sliderPriceList = function(sliderValue,callback){
+//Задача - Функция кривая изменения цены от кол-ва карточек товаров
+console.log("priceCalculator.sliderPriceList ");
+callback(undefined,sliderValue);
+}
+// Price list Ранжирование чекбокса по цене
+priceCalculator.priceList = function (checkId,checkStatus,callback) {
+	// console.log("priceCalculator.priceList checkStatus: " + checkStatus);	
+	switch (checkId) {
+		case "check1": checkStatus ? checkSum += 100 : checkSum -= 100; break
+		case "check2": checkStatus ? checkSum += 200 : checkSum -= 200; break
+		case "check3": checkStatus ? checkSum += 300 : checkSum -= 300; break
+		case "check4": checkStatus ? checkSum += 400 : checkSum -= 400; break		
+		default: 0
+		}
+	this.cheksSumary = checkSum;	
+		console.log(this.cheksSumary)
+	callback (this.cheksSumary,undefined);
+
+}
+//Получение чек бокса, по которому был клик 
+priceCalculator.checkBoxes = function(e) {   
+	e = e || window.event;		
+	var checkboxClickedId = e.target.getAttribute("id");
+	priceCalculator.priceList(checkboxClickedId, e.target.checked, priceCalculator.calculate); 	
+}
+
+//Вычисление суммы
+priceCalculator.calculate = function(priceCheckboxes,priceSlider) {	
+	priceCheckboxes = priceCheckboxes || checkSum;
+	priceSlider = priceSlider || sliderSum;
+	console.log (priceCheckboxes,priceSlider);
+	var priceSummary0 = +priceCheckboxes + +priceSlider
+	priceSummary = +priceSummary0;
+	console.log("priceSummary = " + priceSummary);
+
+
+}
+
+
+	
+	
+	 
+		
+</script>
+
+
+
+<input type="checkbox" name="check1" id="check1" onchange="priceCalculator.checkBoxes()">
+<input type="checkbox" name="check2" id="check2" onchange="priceCalculator.checkBoxes()">
+<input type="checkbox" name="check3" id="check3" onchange="priceCalculator.checkBoxes()">
+<input type="checkbox" name="check4" id="check4" onchange="priceCalculator.checkBoxes()">
+<input type="range" min="0" value="0" max="1000" name="" id="myRange"
+oninput="priceCalculator.rangeSlider()"
+onchange="priceCalculator.rangeSlider()">
+ 
+<!--  ($('#check1').is(':checked')) ? priceCalculator(2000) : priceCalculator(-2000) -->
+  <!-- $('#checkbox_all').prop('checked', false); -->
+
+
+	
+</body>
+</html>

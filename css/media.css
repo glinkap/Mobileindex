@@ -1,0 +1,343 @@
+/*==========  Desktop First Method  ==========*/
+
+/* Large Devices, Wide Screens */
+@media only screen and (max-width : 1200px) {
+
+}
+
+/* Medium Devices, Desktops */
+@media only screen and (max-width : 992px) {
+
+	#dispblock {
+	font-size: 14px !important;	
+	}
+	
+	
+	.mi-menu ul:first-child {
+		display: none;
+			}
+	.mi-menu ul:first-child {
+		position: absolute;
+		left: 0px;
+		width: 100%;
+		top: 100px;	
+	}	
+	#dispblock > li,
+	#dispblock li > a{
+	display: block;
+
+		
+/* Пропорциональность меню по вертикали*/		
+	}	
+	#dispblock li a:first-child {
+	padding-top: 2vh;
+	padding-bottom: 2vh;	
+	}
+	.mi-dropdown-menu li a {
+	padding-top: 1vh !important;
+	padding-bottom: 1vh !important;	
+	background-color: #269b58	
+	}
+	.mi-dropdown-menu {
+	background-color: #269b58;
+	  -webkit-background-clip: padding-box;
+          background-clip: padding-box;
+ 
+  -webkit-box-shadow: none;
+          box-shadow: none;	
+	}
+
+	/* sec 2 mobile */
+	
+	.sec2-main {
+	padding: 0 20px;
+/*	margin-top: 20px ;*/
+	}
+	
+	.mi-sec2-cont3{
+		display: block;
+	}
+
+	
+	.mi-sec2-buttons1 {
+/*		text-align: center;*/
+		position: relative;
+/*		width: 100%;*/
+/*		top: 50px;*/
+	}
+	
+
+	.mi-sec2-buttons1 ul{
+left: 0px !important;
+		top: 0 !important;
+		position: relative;
+	}
+	.mi-sec2-buttons1 ul li {
+/*		text-align: center;*/
+		background-color: #F1E1FF;
+		width: auto !important;
+		max-width: 500px;
+		margin-left: auto;
+		margin-right: auto;
+		border: 2px solid #9846DB;
+		border-radius: 4px;
+		margin-top: 20px;
+		-webkit-transition: none;
+	-o-transition: none;
+	transition: none;
+	}
+	.mi-sec2-buttons1 ul li a:hover {
+	-webkit-transition: none;
+	-o-transition: none;
+	transition: none;	
+	}
+	
+	
+	.mi-sec2-buttons1{
+		margin-top: 50px;
+		
+	}
+	
+/*--------------SEC 5 --------------*/
+	
+
+#mi-sec5-arrow-google {
+    position: relative;
+    top: 150px;
+    left: 0px;
+	margin-left: auto;
+	margin-right: auto;
+    transform: rotate(-90deg);
+	margin-top: -140px;
+}	
+	
+#mi-sec6-arrow-yandex {
+    position: relative;
+    top: 150px;
+    left: 0px;
+	margin-left: auto;
+	margin-right: auto;
+    transform: rotate(90deg);
+	margin-top: -140px;
+}	
+	
+	
+.left-block img {
+	margin-top: 60px;
+}
+	
+	
+.mi-sec5-padd2 {
+	margin-top: 50px;
+}	
+
+		.mi-sec6-left p,
+	.mi-sec6-left h1 {
+		text-align: left;
+	}
+	
+	.mi-sec5-right,
+	.mi-sec6-left {  
+     padding-left: 20px;  
+     padding-right: 20px;    
+}
+	
+	
+	
+	
+	
+	
+	
+	
+}
+/* Small Devices, Tablets */
+@media only screen and (max-width: 768px) {
+	.parallax-1,.parallax-2,.parallax-3,.parallax-4 {
+		background-attachment: scroll;
+	}
+	
+	.googlesearch-btn a,
+	.yandexsearch-btn a {
+		font-size: 18px !important;
+	}	
+	
+	.mi-sec6-left p,
+	.mi-sec5-right p {
+	font-size: 16px !important;
+}	
+	
+
+	
+	
+}
+
+/* Extra Small Devices, Phones */
+@media only screen and (max-width : 480px) {
+
+}
+
+/* Custom, iPhone Retina */
+@media only screen and (max-width : 320px) {
+
+}
+
+
+/*==========  Mobile First Method  ==========*/
+
+/* Custom, iPhone Retina */
+@media only screen and (min-width : 320px) {
+
+}
+
+/* Extra Small Devices, Phones */
+@media only screen and (min-width : 480px) {
+
+}
+
+/* Small Devices, Tablets */
+@media only screen and (max-width : 768px) {
+	.mi-sec2-cont7 {
+	top: 0px;
+    position: relative;
+	}
+	
+	
+}
+
+/* Medium Devices, Desktops */
+@media only screen and (min-width : 992px) {
+
+	.mi-menu #dispblock {
+		display: block !important;
+			}
+	
+	.mi-dropdown-menu {
+		position: absolute;
+		left: auto;
+		
+	}
+	
+	#dispblock, .mi-menu a  {
+		background-color: transparent;
+	}
+
+	.mi-sec5-right {
+        min-height: 624px;
+  
+}
+	.mi-sec6-left{
+	   min-height: 624px;	
+	}
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+}
+
+
+@media only screen and (max-width : 1200px) {
+	/* -------------sec2 картинки =================*/
+	.mi-sec2-cont3 {
+/*		display: block;*/
+/*		text-align: left;*/
+	}
+	
+	.mi-sec2-cont3 ul li a {
+/*
+		padding-left: 120px;
+		padding-right: 120px;
+*/
+/*		margin-left: 60px;*/
+	}
+	
+	.mi-sec2-arrow {
+		position: relative;
+	}
+	
+	.mi-sec2-img4 {
+		position: absolute;
+		right: 200px;
+		bottom: 80px;
+	}
+	
+	.mi-sec2-padd {
+		padding-bottom: 0px;
+	}
+	
+	.mi-sec2-cont1,
+	.mi-sec2-cont2 {
+		position: static;
+	}
+	
+	
+/*-------------SEC2 buttons--------------*/	
+	.mi-sec2-buttons1 ul li {
+/*		display: inline-block;*/
+		background-color: #F1E1FF;
+		width: 400px;	
+		border: 2px solid #9846DB;
+		border-radius: 4px;
+		margin-top: 10px;
+		-webkit-transition: none;
+	-o-transition: none;
+	transition: none;
+	}
+	
+.mi-sec2-buttons1 ul {
+    left: -212px;
+    position: relative;
+    top: -30px;
+	}
+	
+	.mi-sec2-arrow {
+	margin-top: 0;	
+		position: relative;
+		left: 290px;
+	}
+	
+	
+	
+}
+
+
+
+/* Large Devices, Wide Screens */
+@media only screen and (min-width : 1200px) {
+.mi-sec3-padd {
+/*выравнивание блоков по высоте*/
+   display: flex; 
+    display: -webkit-flex;
+    display: -moz-flex;
+    width: 100%;
+		
+}
+	.mi-sec3-cont {
+	margin: 0 2px;	
+	}
+
+@media only screen and (min-width : 1420px) {
+
+	#dispblock {
+	font-size: 16px;	
+	font-family: latothin;	
+	}
+	.mi-dropdown-menu {
+	font-family: latoregular;	
+	
+	}
+}
+
+
+
+
+@media only screen and (max-width : 1289px) {
+	#dispblock {
+	font-size: 12px;	
+	}
+}

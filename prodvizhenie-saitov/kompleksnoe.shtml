@@ -1,0 +1,72 @@
+<!DOCTYPE html>
+<html lang="ru">
+<head>
+	<meta http-equiv="Content-type" content="text/html; charset=UTF-8"/>
+	<meta http-equiv="X-UA-Compatible" content="IE=edge">
+	<meta name="viewport" content="width=device-width, initial-scale=1">
+	<title>Комплексное продвижение и раскрутка сайтов</title>
+	<meta name="description" content="Копмплексное продвижение сайтов. Внутренняя и внешняя оптимизация веб-русурсов под поисковые системы. Успешные кейсы на сайте Mobileindex. Звоните по  ☎8-(977)-267-64-84; ► start@mobileindex.ru">
+	<meta name="keywords" content="Комплексное продвижение сайтов,комплексное продвижение сайта москва, комплексное продвижение в интернете,комплексная раскрутка сайта">
+	<!--#include virtual="/script-top.html" -->
+
+</head>
+<body>
+	<!--#include virtual="/images/sprite.svg" -->
+	<!--#include virtual="/menu.html" -->
+	<!--#include virtual="/mini-header.shtml" -->
+	<style> .mi-status {position: fixed;color: #9e0298;font-size: 16px;top: 200px;z-index: 99999;font-size: 26px;}</style><div class="mi-status"></div>
+<style>.articlecover {background:  url(/images/prodvizhenie-sajtov-oblozhka-mobileindex.ru.png) 50% 50% no-repeat; background-size: cover;	}</style>
+	<div class="container-fluid articlecover">
+		<div class="row">
+			<div class="container">
+				<h1><span>Комплексное продвижение сайтов</span></h1>
+			</div>
+		</div>	
+	</div>
+
+	<!--#include virtual="/rubrikator-prodvizhenie-saitov.shtml" -->
+
+	<div class="container-fluid content">
+		<div class="row">
+			<div class="container">
+				<article class="justify_if_hyphens hyphens">
+					<div class="blockquote">
+					<p><b>Комплексное продвижение сайта</b> — это комплекс услуг, включающий в себя весь спектр работ по продвижению. Заказчик ставит задачу и получает результат, не погружаясь во все дебри поискового продвижения</p>
+					</div>
+<img src="/images/kompleksnoe-prodvizhenie-saitov-mobileindex-ru.png" alt="Комплексное продвижение сайтов в топ Яндекс и Гугл">
+					<h3><b>Комплексное продвижение сайтов в интернете</b> ставит перед специалистом задачу на «выдвижение веб-ресурса на лидирующие позиции». Оно включает в себя:</h3>
+					<ul>
+						<li>Проведение аудита сайта, изучение его структуры и основных составляющих;</li>
+						<li>Оптимизацию сайта, сборку семантического ядра;</li>
+						<li>Внутреннее и внешнее SEO-продвижение, написание высокоуровневых LSI и SEO текстов, увеличение ТиЦ посредством выкупа качественных ссылок на сторонних ресурсах;</li>
+						<li>Подготовку и сопровождение рекламных кампаний в глобальной сети, в частности в сфере контекстной рекламы;</li>
+						<li>E-mail рассылку по проверенной базе, имеющей максимальный уровень отклика;</li>
+						<li>Вирусный маркетинг, подразумевающий как онлайн, так и оффлайн продвижение товаров в интернете: объявления, записи, ссылки, пометки, закладки, упоминания на форумах и в социальных сетях, на других веб-сайтах.</li>
+					</ul>
+					<div class="blockqute-green">
+						<blockquote>
+							<p>Комплексная раскрутка сайта является немаловажной составляющей среднего и крупного бизнеса в интернете. Она позволяет достичь максимально допустимых пределов посещаемости, и даже перевести их на совершенно новый уровень.</p>
+						</blockquote>
+					</div>
+					<h3>Комплексное продвижение сайтов в Москве</h3>
+					<p><b>Комплексное продвижение сайтов</b> ставит перед специалистом задачу на составление плана, по которому в дальнейшем и проводится выдвижение веб-сайта на ТОП позиции в поисковых системах — Google, Яндекс, Рамблер, Mail и других.</p>
+					<p>Основополагающая цель комплексного продвижения, оказываемого в Mobileindex заключена в проведении «боев» на фронталиях интернета, подразумевающих победу над конкурирующими сайтами и переход на ранее занимаемые ими позиции. Вывод сайта заказчика в ТОП — первостепенная наша цель.</p>
+
+
+					<!--#include virtual="/social-share.html" -->
+				</article>
+			</div>
+		</div>
+	</div>
+
+<!--#include virtual="/rubrikator-prodvizhenie-saitov.shtml" -->
+<!--#include virtual="/rubrikator-top-razdeli.html" -->
+	<!--#include virtual="/oformlenie-zayavki.html" -->
+
+	<!--#include virtual="/modal.html" --> 
+	<!--#include virtual="/footer.html" --> 
+	<!--#include virtual="/metrica.html" --> 
+	<!--#include virtual="/script-bottom.html" -->
+	
+</body>
+</html>

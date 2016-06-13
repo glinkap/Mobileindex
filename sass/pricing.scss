@@ -1,0 +1,163 @@
+@import "compass";
+@import "varibles";
+@import "mixin";
+// @import "typography"; 
+
+
+%btn {
+	padding: $padd-btn + 5 ;
+	display: block;
+	font-size: 1em;
+	background-color: $gray80;
+	color: $white;
+	text-transform: uppercase;
+	text-decoration: none;
+	margin-left: auto;
+	margin-right: auto;
+	@include mf(768,480) {max-width: 400px;}
+	&:hover {transition: all 0s;}
+	& {transition: all 0.4s;}
+	text-align: center;
+}
+%line {
+	border-bottom: 3px solid $white;    width: 100%;	position: relative;	top: -2px;	content: " ";
+	display: block;	margin-left: auto;	margin-right: auto;	max-width: 150px;
+}
+
+%colorblock {
+	padding: 20px;
+	display: block;
+	background-color: $gray80;
+	& > p:after {
+		@extend %line;
+	}
+	& > span, p {color: $white;}
+	& > p span:nth-child(1) {font: 1.56em/0.8em latolight_italic; text-transform: uppercase; 
+		}
+	& > p span:nth-child(2)  {font: 1.56em/0.8em latoblack;  text-transform: uppercase;}
+}
+
+%galki {
+	content: ''; 	display: inline-block;	height: 23px;	width: 30px;	background-size: contain;
+	background-repeat: no-repeat;	margin-left: -31px;	position: relative;	left: -8px;	top: 14px; }
+
+.pricingtable {
+	h2,h4,h5 {text-align: center;}
+	h2 {margin-bottom: 40px;margin-top: 40px;}
+	margin-bottom: 80px;
+	margin-top: 40px;
+.calc {
+	// font-size: 0.8em;
+			@include mf(1190,992) {
+				a {
+					font-size: 0.8em;
+					span {max-width: 173px !important;}
+				}
+
+			}
+			@include mf(991,0) {
+					display: block;
+					border: 1px solid $gray80;
+					max-width: 400px;
+					margin-left: auto;
+					margin-right: auto;
+					padding: $padd-btn 0;
+					padding-left: $padd-btn + 2;
+					margin-top: $mobile-padd;
+					margin-bottom: $mobile-padd;
+					
+			}
+
+			@include baselinks($gray80,$gray80,$gray80,$gray80,$gray80);
+			a {
+				text-decoration: none;
+				display: block;	
+				svg {
+					display: inline-block;
+					position: relative;
+					vertical-align: middle;
+					margin-right: 10px;
+
+					width: 28px;
+					height: 44px;
+				}			
+				span {
+					display: inline-block;
+					max-width: 203px;
+					text-decoration: underline;
+					font-weight: 900;
+					vertical-align: middle;
+					
+						text-align: left;
+					
+				}
+			}
+		}
+// Кнопка заказа
+.zakazbtn {	@extend %btn;}
+.col1 .zakazbtn {background-color: $basecolor;&:hover {background-color: $basecolor + 40; 	}}
+.col2 .zakazbtn {background-color: $violet; &:hover {background-color: $violet + 40; 	}}
+.col3 .zakazbtn {background-color: $malina; &:hover {background-color: $malina + 40; 	}}
+
+// Блок с ценой
+.colorblock {@extend %colorblock;
+	text-align: center;
+	p {margin-bottom: 15px;}
+	    padding-bottom: 15px;
+& > span:nth-of-type(1) {font: 1.6em/1em latoblack;display: block;}
+& > span:nth-of-type(2) {font-size: 0.875em;line-height:1em;display: block;margin-bottom: 20px; &:after {@extend %line;max-width: 80px;top: 10px;}}
+& > span:nth-of-type(3) {font: 1.2em/0.8em latoblack;display: block;}}
+.col1 .colorblock {background-color: $basecolor;}
+.col2 .colorblock {background-color: $violet;}
+.col3 .colorblock {background-color: $malina;}
+.col4 .colorblock {background-color: #EBEBEB; & > p span {color: $gray60;} & > p:after {border-color: $gray60;}}
+
+// use.galkagreen{stroke: $basecolor;}
+// use.galkaviolet{stroke: $violet;}
+// use.galkamalina{stroke: $malina;}
+
+//Галки черт их заногу
+ul {list-style-type:none;font-size: 1em;line-height: 1.2em;margin-bottom: 30px; margin-top: -10px;}
+li:before {@extend %galki;margin-bottom: 10px;}
+
+.col1 li:before {background-image: url("../images/galkagreen.svg");}
+.col2 li:before {background-image: url("../images/galkaviolet.svg");}
+.col3 li:before {background-image: url("../images/galkamalina.svg");}
+.col4 li:before {background-image: url("../images/galkagray.svg");}
+
+//dsafdfqwfeqwf
+.col4 p:first-of-type {margin-top: 1.414em;}
+
+// Блок для кого курсивный
+%line2 {
+.blokkursiv:before {@extend %line; border-bottom: 3px solid $basecolor;max-width: 100%;}
+.blokkursiv:after {@extend %line; border-bottom: 3px solid $basecolor;top: 26px;max-width: 100%;}	
+}
+.col1 {@extend %line2; .blokkursiv:before{ border-bottom: 3px solid $basecolor;}.blokkursiv:after{ border-bottom: 3px solid $basecolor;}}
+.col2 {@extend %line2; .blokkursiv:before{ border-bottom: 3px solid $violet;}.blokkursiv:after{ border-bottom: 3px solid $violet;}}
+.col3 {@extend %line2; .blokkursiv:before{ border-bottom: 3px solid $malina;}.blokkursiv:after{ border-bottom: 3px solid $malina;} }
+.col4 {@extend %line2;  .blokkursiv:before{ border-bottom: 3px solid $gray60;}.blokkursiv:after{ border-bottom: 3px solid $gray60;}}
+
+.blokkursiv {margin-top: 2.6em;margin-bottom: 3.8em; em {color: $gray60; font-family:latoitalic;}}
+// ссылка кнопка подробнее
+
+
+.podrobnee {text-decoration: underline;
+	@include mobilebtn ();
+	text-align: center;
+	color: $gray60;
+	font-family: latobold;
+	    display: block;
+	    padding: 20px;
+}
+
+
+ 
+
+
+
+
+
+
+}
+// svg polyline {stroke:inherit;}

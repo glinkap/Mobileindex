@@ -1,0 +1,215 @@
+	<!-- <link rel="stylesheet" href="css/grid.only.bootstrap.min.css"> -->
+	<link rel="stylesheet" href="css/calc-simple.css">
+	
+
+	<script src="http://code.jquery.com/jquery-1.8.3.js"></script>
+
+	<link rel="stylesheet" href="libs/jquery-ui-1.11.4/jquery-ui.css">
+	<script src="libs/jquery-ui-1.11.4/jquery-ui.js"></script>
+
+   
+    <script>
+
+
+
+
+
+// var summary = "", checkSummary=1,slider=1;
+
+// function priceCalculator(slider) {	
+//  summary = slider;   	
+
+// $( ".price1" ).html(Math.abs(Math.floor(summary/1.3)) + "р.");
+// $( ".price2" ).html(Math.abs(Math.floor(summary/2)) + "р.");	
+// }
+var timer;
+    </script>
+    <div class="mi-status"></div>
+	<section id="calc-prodv-simple">
+		<div class="container">
+			<form action="">
+				<div class="row">
+					<div class="col-md-12">
+						<h2>Калькулятор стоимости продвижения интернет-магазина</h2>
+					</div>
+				</div>
+				<div class="row">
+					<div class="col-sm-6"> 
+						<div id="slider-budjet">
+							<h4>Предполагаемый бюджет в месяц:</h4>
+							<input type="text" id="amount-min" readonly />
+							<input type="text" id="amount-max" readonly/>
+							<div id="slider-range"></div>
+						</div>
+						<script>
+							$("#slider-range").slider({
+								range: true,
+								animate: "slow",
+								min: 20000,
+								max: 200000,
+								step: 5000,
+								values: [ 35000, 120000 ],
+								slide: function( event, ui ) {$( "#amount-min" ).val(ui.values[ 0 ] + " р.");
+								$( "#amount-max" ).val(ui.values[ 1 ] + " р.");}      
+							}); 
+							$( "#amount-min" ).val($( "#slider-range" ).slider( "values", 0 ) +" р.");
+							$( "#amount-max" ).val($( "#slider-range" ).slider( "values", 1 ) +" р.");
+						</script>
+						<div id="razmer-magazina">	
+							<h4>Размер магазина (карточек товаров):</h4>
+							<input type="text" id="amount-" readonly />
+							<input type="text" id="amount-carttovarov" readonly />
+							<div id="slider-carttovarov"></div>
+							<script>
+								$("#slider-carttovarov").slider({
+									range: "min",	      
+									animate: "slow",
+									step: 50,
+									value: 5000,
+									max: 50000,
+									min: 5,
+									slide: 
+											
+									function( event, ui ) {
+	clearTimeout(timer)
+timer = setTimeout(function() {	
+										$( "#amount-carttovarov" ).val(ui.value);
+		 										priceCalculator.rangeSlider("slider-carttovarov",ui.value);
+									
+},10);
+									}
+											          
+								});
+								$( "#amount-carttovarov" ).val($( "#slider-carttovarov" ).slider("value"));				
+															
+							</script>
+						</div>
+					</div>   
+					<div class="col-sm-6">
+						<div class="checkboxes">
+							<h4>Цель продвижения:</h4>
+							<div class="flex-align">	
+								<input type="checkbox" name="check1" id="check1"
+									onchange="priceCalculator.checkBoxes()">
+								<label for="check1" data-text-true="ДА" data-text-false="НЕТ"><i></i></label>
+								<label for="check1">Повышение видимости интернет-магазина в Yandex и Google</label>
+							</div>
+
+							<br>
+
+							<div class="flex-align">
+								<input type="checkbox" name="check2" id="check2"
+									onchange="priceCalculator.checkBoxes()">
+								<label for="check2"data-text-true="ДА" data-text-false="НЕТ"><i></i></label>
+								<label for="check2">Больше ключевых слов в поиске</label>
+							</div><br>
+
+							<div class="flex-align">
+								<input type="checkbox" name="check3" id="check3" 
+									onchange="priceCalculator.checkBoxes()">
+								<label for="check3" data-text-true="ДА" data-text-false="НЕТ"><i></i></label>
+								<label for="check3">Трафик</label>
+							</div><br>
+
+							<div class="flex-align">
+								<input type="checkbox" name="check4" id="check4"
+									onchange="priceCalculator.checkBoxes()">
+								<label for="check4" data-text-true="ДА" data-text-false="НЕТ"><i></i></label>
+								<label for="check4">Борьба за ТОП -10</label>
+							</div>						
+						</div>					
+					</div>
+					</div>
+					<div class="row" id="block-calculate">
+						<div class="col-sm-4 col-xs-6"><div class="razoviy-platej clearfix"><p class="price1"></p><p>разовый платеж</p></div></div>
+						<div class="col-sm-4 col-xs-6"><div class="mesyachniy-platej clearfix"><p class="price2">0р.</p><p>в месяц</p></div></div>
+						<div class="col-sm-4 col-xs-12"><div class="dalee-btn"><a href="javascript:void(0)">Далее</a></div></div>
+					</div>					
+						<!-- <div class="col-sm-4 col-xs-12">
+							<a href="javascript:void(0)">Расширенный калькулятор</a>
+						</div> -->
+					</div>
+				</form>
+			</div>
+			<script>
+			// priceCalculator($("#slider-carttovarov").slider("value"));	
+			
+
+
+
+			</script>
+		</section>
+		<script>
+
+var priceCalculator = new Object();
+var priceSummary = 0;
+var checkSum = 0;
+var sliderSum = 5000;
+
+// Рэнж Слайдер
+	priceCalculator.rangeSlider = function(sliderId,sliderValue) {
+		// clearTimeout(timer);
+		// timer = setTimeout(function() {
+console.log("priceCalculator.rangeSlider sliderId: "+sliderId+ "   sliderValue: "+sliderValue);
+
+priceCalculator.sliderPriceList(sliderId,sliderValue, priceCalculator.calculate);
+sliderSum = priceCalculator.rangeSlider.sliderValue = sliderValue;
+
+		// },100);
+
+
+	} 
+// Price list Ранжирование Слайдера по цене	
+priceCalculator.sliderPriceList = function(sliderId,sliderValue,callback){
+	switch (sliderId) {
+		case "slider-carttovarov": callback(checkSum,sliderValue); break			
+		default: 0
+		}
+//Задача - Функция кривая изменения цены от кол-ва карточек товаров
+console.log("priceCalculator.sliderPriceList " + sliderId);
+
+}
+// Price list Ранжирование чекбокса по цене
+priceCalculator.priceList = function (checkId,checkStatus,callback) {
+	// console.log("priceCalculator.priceList checkStatus: " + checkStatus);	
+	switch (checkId) {
+		case "check1": checkStatus ? checkSum += 2500 : checkSum -= 2500; break
+		case "check2": checkStatus ? checkSum += 3200 : checkSum -= 3200; break
+		case "check3": checkStatus ? checkSum += 4500 : checkSum -= 4500; break
+		case "check4": checkStatus ? checkSum += 8400 : checkSum -= 8400; break		
+		default: 0
+		}
+	this.cheksSumary = checkSum;	
+		console.log(this.cheksSumary)
+	callback (this.cheksSumary,undefined);
+
+}
+//Получение чек бокса, по которому был клик 
+priceCalculator.checkBoxes = function(e) {   
+	e = e || window.event;		
+	var checkboxClickedId = e.target.getAttribute("id");
+	priceCalculator.priceList(checkboxClickedId, e.target.checked, priceCalculator.calculate); 	
+}
+
+//Вычисление суммы
+priceCalculator.calculate = function(priceCheckboxes,priceSlider) {	
+	priceCheckboxes = priceCheckboxes || checkSum;
+	priceSlider = priceSlider || sliderSum;
+	// console.log (priceCheckboxes,priceSlider);
+	var priceSummary0 = +priceCheckboxes + +priceSlider
+	priceSummary = +priceSummary0;
+	console.log("priceSummary = " + priceSummary);
+$( ".price1" ).html(Math.abs(Math.floor(priceSummary)) + "р.");
+$( ".price2" ).html(Math.abs(Math.floor(priceSummary/2)) + "р.");
+
+}
+
+$( ".price1" ).html(5000 + "р.");
+$( ".price2" ).html(Math.abs(Math.floor(priceSummary/2)) + "р.");
+	
+	
+	 
+		
+</script>
+<!-- 	</body>
+	</html> -->

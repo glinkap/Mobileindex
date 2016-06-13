@@ -1,0 +1,19 @@
+<link rel="stylesheet" href="/css/oform-zayavki.css?1">
+<link rel="stylesheet" href="/css/modal.css?2">
+<script src="/libs/jquery/jquery-2.1.4.js"></script>	
+<script src="/js/SmoothScroll.js"></script>
+<!-- <script src="/js/jquery.localScroll.min-1.4.0.js"></script> -->
+<!-- <script src="/libs/FakeSmile-master/smil.check.js"></script> -->
+<link rel="stylesheet" type="text/css" href="/css/footer.css">
+<script src="/js/mijs.js"></script>
+<script type="text/javascript">
+	$(document).ready(function () {
+		var ismobile = $(window).width()	
+		$("#minihead-slider-checkbox").click(function(){
+			if($("#minihead-slider-checkbox").is(":checked")) {
+				$(".mini-header-slider").slideUp();
+			} else {$(".mini-header-slider").slideDown();}
+		})
+	});
+
+</script>

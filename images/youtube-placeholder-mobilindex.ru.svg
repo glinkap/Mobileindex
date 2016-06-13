@@ -1,0 +1,16 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" viewBox="0 0 716.7 416.44">
+  <defs>
+    <symbol id="a" data-name="New Symbol" viewBox="0 0 716.7 416.44">
+      <g>
+        <rect width="716.7" height="416.44" fill="#333"/>
+        <polygon points="270.71 302.62 270.71 107.78 465.56 205.2 270.71 302.62" fill="#d00005"/>
+        <rect x="21.88" y="17.83" width="278.59" height="33.11" fill="#545454"/>
+        <rect x="608.47" y="17.83" width="33.11" height="33.11" fill="#545454"/>
+        <rect x="661.19" y="17.83" width="33.11" height="33.11" fill="#545454"/>
+      </g>
+      <rect x="21.88" y="353.61" width="44.5" height="33.11" fill="#545454"/>
+    </symbol>
+  </defs>
+  <title>youtube-placeholder-mobilindex.ru</title>
+  <use width="716.7" height="416.44" xlink:href="#a"/>
+</svg>

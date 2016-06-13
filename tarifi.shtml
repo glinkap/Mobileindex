@@ -1,0 +1,209 @@
+<!-- <!DOCTYPE html>
+<html lang="en">
+<head>
+	<meta charset="UTF-8">
+	<title>Document</title>
+	<link type="text/css" rel="stylesheet" href="fonts/lato.css"/>
+	<link rel="stylesheet" href="css/grid.bootstrap.min.css">
+	<link rel="stylesheet" href="css/pricing.css">
+</head>
+<body> -->
+<!--#include virtual="images/sprite.svg" -->	
+	 
+<div class="container pricingtable">
+	<div class="row">
+		<h2>Тарифы — Стоимость продвижения интернет-магазина в топ Яндекса, Гугла</h2>
+	</div>
+	<div class="row">
+		<div class="col-md-3 col-sm-6 col1">
+			<div class="colorblock">
+				<p>
+					<span>Mobile</span>
+					<span>Start</span>
+				</p>
+				
+				<span>40 т.р.</span>
+				
+				<span>разовый платеж</span>
+				
+				<span>0 т.р.</span>
+				
+				<span>в месяц</span>
+			</div>
+			<h5>Состав работ:</h5>		
+			<ul>
+				<li>Расширенный аудит интернет-магазина</li>
+				<li>Подготовительные работы (стратегия продвижения, Семантическое ядро)</li>
+				<li>СЕО-оптимизация главная страница + до 20 карточек товара </li>
+				<li>Работа со ссылочной массой</li>
+			</ul>
+			<div class="blokkursiv">
+				<h5>Для кого:</h5>
+				<em class="justify_if_hyphens hyphens">Вы только начали свой бизнес или только открыли свой интернет-магазин. Вы хотите правильно начать свое продвижение в поисковых системах, узнать все стороны этого процесса и получить первых клиентов из поисковиков</em>
+			</div>
+			<h5>Результат:</h5>
+			<ul>
+				<li>Выход в топ через 30 дней</li>
+				<li>Повышение видимости интернет-магазина</li>
+				<li>Настроенная Яндекс метрика и Гугл аналитика</li>
+				<li>Первые заказы</li>
+			</ul>
+			<a data-target="#modal-tarif" class="open_modal zakazbtn" href="javascript:void(0)">Заказать</a>
+			
+			<a class="podrobnee" href="javascript:void(0)">Подробнее о тарифе</a>
+			<div class="calc"><a href="javascript:void(0)">
+					<svg xmlns:xlink="http://www.w3.org/1999/xlink" xmlns="http://www.w3.org/2000/svg">
+						<use xlink:href="#calculator"></use>
+						<span>Калькулятор стоимости продвижения</span>
+					</svg>
+				</a></div>
+		</div>
+		<div class="col-md-3 col-sm-6 col2">
+			<div class="colorblock">
+				<p>
+					<span>Mobile</span>
+					<span>Business</span>
+				</p>
+				
+				<span>80 т.р.</span>
+				
+				<span>разовый платеж</span>
+				
+				<span>40 т.р.</span>
+				
+				<span>в месяц</span>
+			</div>
+			<h5>Состав работ:</h5>
+			<ul>
+				<li>Расширенный аудит интернет-магазина</li>
+				<li>Подготовительные работы (стратегия продвижения, Семантическое ядро)</li>
+				<li>СЕО-оптимизация главная страница + до 50 карточек товара </li>
+				<li>Комплексное продвижение</li>
+			</ul>
+			<div class="blokkursiv">
+				<h5>Для кого:</h5>
+				<em>У Вас несколько товарных групп, Вы убеждены, что трафик с Яндекса или Гугла повысит Ваши продажи на 30%, как минимум</em>
+			</div>
+			<h5>Результат:</h5>
+			<ul>
+				<li>Выход в топ через 1-6 мес. по коммерческим запросам </li>
+				<li>Повышение видимости интернет-магазина</li>
+				<li>Настроенная Яндекс метрика и Гугл аналитика</li>
+				<li>Конвертируемый трафик</li>
+			</ul>
+			<a data-target="#modal-tarif" class="open_modal zakazbtn" href="javascript:void(0)">Заказать</a>
+			
+			<a class="podrobnee" href="javascript:void(0)">Подробнее о тарифе</a>
+			<div class="calc"><a href="javascript:void(0)">
+					<svg xmlns:xlink="http://www.w3.org/1999/xlink" xmlns="http://www.w3.org/2000/svg">
+						<use xlink:href="#calculator"></use>
+						<span>Калькулятор стоимости продвижения</span>
+					</svg>
+				</a></div>
+		</div>
+		<div class="col-md-3 col-sm-6 col3">
+			<div class="colorblock">
+				<p>
+					<span>Mobile</span>
+					<span>Leader</span>
+				</p>
+				
+				<span>180 т.р.</span>
+				
+				<span>разовый платеж</span>
+				
+				<span>120 т.р.</span>
+				
+				<span>в месяц</span>
+			</div>
+			<h5>Состав работ:</h5>
+			<ul>
+				<li>Расширенный аудит интернет-магазина</li>
+				<li>Подготовительные работы (стратегия продвижения, Семантическое ядро)</li>
+				<li>СЕО оптимизация всего интернет-магазина</li>
+				<li>Юзабилити трасировка</li>
+				<li>Работа с внешними и внутренними факторами</li>
+				<li>Размещение Товарных площадках (Яндекс Меркет и других)</li>
+				<li>Реклама на тематических ресурсах</li>
+				<li>Реклама в соц. Сетях</li>
+				<li>Реклама в купонаторах (Биглион и других)</li>
+				<li>Партнерские программы</li>
+				<li>E-mail рассылки</li>
+			</ul>
+			<div class="blokkursiv">
+				<h5>Для кого:</h5>
+				<em class="justify_if_hyphens hyphens">Вы претендуете на топ 5 по высокочастотным коммерческим запросам. Вы желаете, чтобы Ваши затраты на продвижение строго конвертировались в продажи. Вы хотите иметь четкое представление стоимости клиента(ROI)</em>
+			</div>
+			<h5>Результат:</h5>
+			<ul>
+				<li>Выход в топ через 6-12 мес. по высококонкурентным, высокочастотным, коммерческим запросам</li>
+				<li>Значительное повышение продаж</li>
+				<li>Отлаженная система контроля продвижения</li>
+				<li>Достижение оговоренных KPI</li>
+			</ul>
+			<a data-target="#modal-tarif" class="open_modal zakazbtn" href="javascript:void(0)">Заказать</a>
+			
+			<a class="podrobnee" href="javascript:void(0)">Подробнее о тарифе</a>
+			<div class="calc"><a href="javascript:void(0)">
+					<svg xmlns:xlink="http://www.w3.org/1999/xlink" xmlns="http://www.w3.org/2000/svg">
+						<use xlink:href="#calculator"></use>
+						<span>Калькулятор стоимости продвижения</span>
+					</svg>
+				</a></div>
+		</div>
+		<div class="col-md-3 col-sm-6 col4">
+			<div class="colorblock">
+				<p>
+					<span>Mobile</span>
+					<span>Thematic</span>
+				</p>
+				<div class="calc"><a href="javascript:void(0)">
+					<svg xmlns:xlink="http://www.w3.org/1999/xlink" xmlns="http://www.w3.org/2000/svg">
+						<use xlink:href="#calculator"></use>
+						<span>Калькулятор стоимости продвижения</span>
+					</svg>
+				</a></div>
+			</div>
+			<p class="justify_if_hyphens hyphens">Тематически ориентированное продвижение. Сочетает в себе опыт, наработанный годами для конкретных сфер. Ниже представлены тематики, по которым есть наработки – продуманные стратегии продвижения
+</p>
+			<ul>
+				<li>Пищевая тематика, Еда (пиццерия, суши)</li>
+				<li>Подарки (Цветы, Сувенирка)</li>
+				<li>Товары для здоровья</li>
+				<li>Бытовая техника</li>
+				<li>Спортивные товары</li>
+				<li>Спортивное питание</li>
+				<li>Одежда (мужская, женская)</li>
+				<li>Магазины детских товаров</li>
+				<li>Товары для домашних животных, питание</li>
+				<li>Офисные товары, мебель, канцтовары</li>
+			</ul>
+			<div class="blokkursiv">
+				<h5>Для кого:</h5>
+				<em class="justify_if_hyphens hyphens">Вы уже сотрудничали с компаниями-продвиженцами, но они плохо понимали Вашу тематику, бездумно заказывали внешние ссылки. Вы хотите работать с компанией, которая уже имеет опыт в Вашей Сфере. 
+Используйте калькулятор продвижения с указанием тематики</em>
+			</div>
+			<h5>Результат:</h5>
+			<ul>
+				<li>Наиболее быстрое достижение оговоренных KPI</li>	
+			</ul>			
+			<a class="podrobnee" href="javascript:void(0)">Подробнее о тарифе</a>
+			<div class="calc"><a href="javascript:void(0)">
+					<svg xmlns:xlink="http://www.w3.org/1999/xlink" xmlns="http://www.w3.org/2000/svg">
+						<use xlink:href="#calculator"></use>
+						<span>Калькулятор стоимости продвижения</span>
+					</svg>
+				</a></div>
+		</div>
+	</div>
+</div>
+
+
+
+
+
+
+<!-- 
+
+</body>
+</html> -->

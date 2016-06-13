@@ -1,0 +1,358 @@
+@import "compass";
+@import "varibles";
+@import "mixin";
+@import "typography";
+@include paragraph-links();
+
+$head-bgc:#6E72B6;
+	#min-head-distance {
+		height: $menu-height + 66;
+}
+
+	%colorline {
+		& {
+			content:"";
+			display: block;
+			border-bottom: 7px solid $migreen;
+			width: 100%;
+			position: relative;		
+			top: -20px;					
+			@include mf(9999,992) {
+				left: -15px;
+				width: calc(100% + 15px);
+
+			}	
+			@include mf(991,0) {
+				display: none;
+			/* 	width: calc(100%);
+				left: 0; */
+			}
+
+		}
+	}
+//----------------Creativ background---------------
+	// .parallax-1 {
+	// 	width: 100%;
+	// 	top: 0px;
+	// 	background: url(../images/Background-800-transp-mobileindex.ru.png),linear-gradient(top left, #abafff 0%, #a3ffd1 100%) 50% 0 no-repeat fixed;
+	// 	background-size: cover;
+	// 	height: inherit;
+	// 	padding: 0;
+	// 	opacity: 1;
+	// 	z-index: 2;
+	// }
+
+
+	  #particles-js {
+    position: absolute;
+    width: 100%; 
+    height: 68%;  
+    background-image: url("");
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-position: 50% 50%;
+    @include mf(991,0) {display: none;}
+  }
+  .particles-js-canvas-el {
+  	width: 100%; 
+  	height: 100%; 
+  	position: relative; 
+  	top: 0;
+  	/*z-index: -99;*/
+  }
+
+//----------------/Creativ background---------------
+
+	.header {
+		background-color: $head-bgc;
+		// @include dflinks ();
+		top: $menu-height + 27;
+		.row {
+			margin-bottom: 20px;
+		}
+		.row:before {
+			border-top: 7px solid $migreen;
+			width: 100%;
+			position: relative;		
+			top: -20px;		
+			@include mf(991,0) {
+				/* width: calc(100% - 30px);
+				left:15px; */
+				display: none;
+			}
+		}
+
+
+		.row:first-of-type {
+			@include flex;
+		}
+		.slogan {
+			font-family: latolight;
+			line-height: 1em ;
+			margin: 0;
+			font-size: 1.7em;
+			line-height: 1.2em;
+			color: $white;
+			margin-bottom: 40px;
+			@include mf(991,0) {
+				text-align: center;
+				margin-top: $mobile-padd;
+				margin-bottom: $mobile-padd + 30;
+
+			}
+			@include mf(991,480) {
+				font-size: 1.5em;			
+			}
+		}
+		
+		.blackline:after {
+			@extend %colorline;
+			top:20px;
+			border-color: $gray80;
+			@include mf(991,0) {
+				border: none;}
+				
+			}
+			.telefonblok {
+				.greenline:before {
+					@extend %colorline;
+				}
+
+
+			}
+			.telefonblok svg, .icon {
+				position: relative;
+				vertical-align: middle;
+				width: 24px;
+				height: 24px;
+				top: -2px;
+			}
+			.favorites {
+				margin-top: 40px;
+				@include mobilebtn ();
+				display: block;
+				text-align: center;			
+				@include fastlink();
+				svg {
+					width: 34px;
+					height: 34px;
+				}
+			}		
+			.msk {
+				font-size: 1.4em;
+				text-decoration: underline;
+			}
+			@include mf(991,0) {
+				#mskstring {
+					text-align: center;
+
+				}
+			}
+			.tel {			
+				line-height: 1em;
+				display: block;
+				@include mf(991,0) {				
+					text-align: center;				
+					border: 1px solid $gray80;
+					padding-top: $padd-btn;
+					padding-bottom: $padd-btn;
+
+					display: block;
+					max-width: 400px;
+					margin-left: auto;
+					margin-right: auto;
+					margin-top: $mobile-padd;
+					margin-bottom: $mobile-padd - 8;
+
+				}
+				@include mf(480,0) {
+					font-size: 1.525em;
+				}
+				font-size: 2.125em;
+
+
+				text-decoration: none;
+				span:nth-of-type(1) {
+					color: $gray80;
+				}
+				span:nth-of-type(2) {
+					color: $migreen;
+				}
+			}
+
+			.adress {
+				font-size: 0.8em;
+				line-height: 1.12em;
+				margin: auto;
+				@include mf(991,0){
+					text-align: center;
+				}
+				p:nth-of-type(1) {
+					margin: 0;
+					line-height: 1.12em;
+					font-size: 1.4em;
+				}
+				p:nth-of-type(2) {
+					margin: 0;	
+				}
+			}
+			.block2 {
+				// @include baselinks($gray80,$gray80,$migreen,$gray80,$migreen);
+				// text-weight: bold;
+
+				// a {	@include mobilebtn();    font-weight: bold;	}
+				// h4:first-of-type {
+				// 	margin-top: 0;
+				// }
+				// p {
+				// 	display: inline;
+				// 	line-height: 1em;
+				// }
+				// @include mf(9999,991) {
+				// 	p {
+				// 		max-height: 4.7em;
+				// 		overflow: hidden;
+				// 	} 
+				// }
+ 
+			}
+
+
+			.block3 {
+				/* 	@include flex(); */
+				svg, figure img {
+					width: 100%;
+					height: auto;
+					margin-left: auto;
+					margin-right: auto;
+					cursor: pointer;
+				}
+				.miyoutube, .market {
+					@include mf(480,0) {
+						padding-left: 0;
+						padding-right: 0; }
+						/* @include mf(768,0) {padding-top: $mobile-padd;			} */
+					}
+					.miyoutube {						    
+						@include mf(991,0) {
+							text-align: center;
+						}
+					}
+					.miyoutube > div {
+						position: relative;
+						padding-bottom: 58.25%;;
+						height: 1px;
+						overflow: hidden;
+						margin-left: auto;
+						margin-right: auto;
+						@include mf(9999,992) {
+							margin-bottom: $mobile-padd;
+						}
+						@include mf(991, 321) {
+							max-width: 413px;
+							max-height: 232px;
+							padding-bottom: 232px;
+
+						}
+						svg {
+							width: 100%;
+							height: 100%;
+							position: absolute;
+							display: block;
+
+						}
+					}
+
+
+				}
+
+
+
+
+				.market {
+
+					.calc {
+						@include mf(9999,991) {
+							margin-right: auto;
+							margin-left: auto;
+							width: 238px;
+						}
+
+						@include mf(991,0) {
+							display: block;
+							border: 1px solid $gray80;
+							max-width: 400px;
+							margin-left: auto;
+							margin-right: auto;
+							padding: $padd-btn 0;
+							margin-top: $mobile-padd;
+							margin-bottom: $mobile-padd;
+
+						}
+
+						@include baselinks($gray80,$gray80,$gray80,$gray80,$gray80);
+						a {
+							text-decoration: none;
+							display: block;	
+							svg {
+								display: inline-block;
+								position: relative;
+								vertical-align: middle;
+								margin-right: 10px;
+								margin-left: 10px;
+								width: 28px;
+								height: 44px;
+							}			
+							span {
+								display: inline-block;
+								max-width: 185px;
+								text-decoration: underline;
+								font-weight: 900;
+								vertical-align: middle;
+								@include mf(991,0) {
+									text-align: left;
+								}
+							}
+						}
+					}
+					.miniheadanaliz{		
+						display: block;
+						text-align: center;		
+						outline: none; color: $head-bgc; 
+						&:visited { color: $head-bgc; }
+						&:hover { color: $head-bgc; background-color: $gray80 - 20}
+						&:active { color: $head-bgc; }
+						&:focus { color: $head-bgc; }
+						background-color: $gray80;
+						text-decoration: none;
+						max-width: 400px;
+						margin-left: auto;
+						margin-right: auto;
+						padding: $padd-btn 0;
+						margin-bottom: 10px;
+						@include mf(991,0) {
+							margin-top: $mobile-padd;
+							margin-bottom: $mobile-padd;
+
+						}
+					}
+				}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+			}
+

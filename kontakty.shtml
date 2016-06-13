@@ -1,0 +1,113 @@
+<!DOCTYPE html>
+<html lang="ru">
+<head>
+    <meta http-equiv="Content-Type" content="text/html"; charset="utf-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+    <title>Контакты Mobileindex.ru</title>
+	<meta name="description" content="Контакты Mobileindex.ru ☎8-(977)-267-64-84; ► start@mobileindex.ru">
+	<meta name="keywords" content=" Продвижение мобилього сайта, СЕО, SEO, Продвижение сайта, Раскрутка сайта, продвижение в топ">
+	<meta name="generator" content="www.glinkapetr.ru">
+
+	<link rel="apple-touch-icon" sizes="57x57" href="favicons/apple-icon-57x57.png">
+	<link rel="apple-touch-icon" sizes="60x60" href="favicons/apple-icon-60x60.png">
+	<link rel="apple-touch-icon" sizes="72x72" href="favicons/apple-icon-72x72.png">
+	<link rel="apple-touch-icon" sizes="76x76" href="favicons/apple-icon-76x76.png">
+	<link rel="apple-touch-icon" sizes="114x114" href="favicons/apple-icon-114x114.png">
+	<link rel="apple-touch-icon" sizes="120x120" href="favicons/apple-icon-120x120.png">
+	<link rel="apple-touch-icon" sizes="144x144" href="favicons/apple-icon-144x144.png">
+	<link rel="apple-touch-icon" sizes="152x152" href="favicons/apple-icon-152x152.png">
+	<link rel="apple-touch-icon" sizes="180x180" href="favicons/apple-icon-180x180.png">
+    <link rel="icon" type="image/png" sizes="16x16" href="favicons/favicon-16x16.png">
+    <link rel="icon" type="image/png" sizes="192x192"  href="favicons/android-icon-192x192.png">
+    <link rel="icon" type="image/png" sizes="32x32" href="favicons/favicon-32x32.png">
+    <link rel="icon" type="image/png" sizes="96x96" href="favicons/favicon-96x96.png">  
+	<link rel="manifest" href="favicons/manifest.json">
+	<meta name="msapplication-TileColor" content="#ffffff">
+	<meta name="msapplication-TileImage" content="favicons/ms-icon-144x144.png">
+	<meta name="theme-color" content="#ffffff">
+
+
+    <link rel="stylesheet" href="css/grid.only.bootstrap.min.css">
+	<link type="text/css" rel="stylesheet" href="fonts/lato.css"/>
+   <!--  <link rel="stylesheet" type="text/css" href="css/footer.css"> -->
+    
+    <link type="text/css" rel="stylesheet" href="css/mistyle.css"/>
+    <link type="text/css" rel="stylesheet" href="css/media.css"/>
+    <link type="text/css" rel="stylesheet" href="css/hamburger.css"/>
+    <link rel="stylesheet" href="css/header.css?3">
+      <link rel="stylesheet" href="css/rubrikator.css?1">
+</head>
+<body>
+    <style>
+        .mi-status {
+            position: fixed;
+            color: #9e0298;
+            font-size: 16px;
+            top: 200px;
+            z-index: 99999;
+            font-size: 26px;
+        }
+    </style>
+    <div class="mi-status"></div>
+<!--#include virtual="images/sprite.svg" -->
+<!--#include virtual="menu.html" -->
+<!--#include virtual="head.shtml" -->
+	
+
+<div class="container contacts">
+   <div class="row padd">
+        <h1>Контакты</h1>
+       
+       <p><strong>Тел.:</strong> +7(977)267-6484</p>
+       <p><strong>Время работы:</strong> Понедельник - пятница, 10:00 – 19:00</p>
+       
+       <strong>E-mail: </strong><a href="mailto:start@mobileindex.ru">start@mobileindex.ru</a>
+       <h4>Mobileindex На карте</h4>
+       <iframe src="https://www.google.com/maps/embed?pb=!1m14!1m12!1m3!1d561.3437730360116!2d37.67041506778319!3d55.751986064601425!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!5e0!3m2!1sru!2sru!4v1459033839096" width="320" height="400" frameborder="0" style="border:0" allowfullscreen></iframe>
+
+       <iframe src="https://www.google.com/maps/embed?pb=!1m0!3m2!1sru!2sru!4v1459035032084!6m8!1m7!1svsnUuq-pcScep8qJ0RF8Qw!2m2!1d55.75185580163789!2d37.6712394321689!3f330.5314033721216!4f-8.204758215813285!5f0.7820865974627469" width="320" height="400" frameborder="0" style="border:0" allowfullscreen></iframe>
+   </div>
+</div>
+
+ <!--#include virtual="footer.html" --> 
+ <!--#include virtual="modal.html" --> 
+ <!--#include virtual="metrica.html" --> 
+
+<link rel="stylesheet" href="css/contacts.css">
+<link rel="stylesheet" href="css/modal.css">
+<script src="libs/jquery/jquery-2.1.4.js"></script>	
+<script src="js/SmoothScroll.js"></script>
+<script src="js/jquery.parallax-1.1.3.js"></script>	
+<script src="js/jquery.scrollTo-1.4.2-min.js"></script>	
+<script src="js/jquery.localScroll.min-1.4.0.js"></script>
+<script src="libs/FakeSmile-master/smil.check.js"></script>
+<link rel="stylesheet" href="css/footer.css">
+
+
+<script>$(document).ready(function(){
+//	$('#nav123').localScroll(800);
+	
+	//.parallax(xPosition, speedFactor, outerHeight) options:
+	//xPosition - Horizontal position of the element
+	//inertia - speed to move relative to vertical scroll. Example: 0.1 is one tenth the speed of scrolling, 2 is twice the speed of scrolling
+	//outerHeight (true/false) - Whether or not jQuery should use it's outerHeight option to determine when a section is in the viewport
+//$(document).width() >= 1025
+if ($(document).width() >= 1025) {
+	$('.parallax-1').parallax("50%", 0.2);
+	$('.parallax-2').parallax("50%", 0.1);
+	$('.parallax-3').parallax("50%", 0.3);
+	$('.parallax-4').parallax("50%", 0.6);
+	} else { 
+		delete $('.parallax-1').parallax;
+	}
+})
+</script>	
+
+
+<script src="js/mijs.js"></script>
+<script src="js/mihomepage.js"></script>
+
+
+</body>
+</html>

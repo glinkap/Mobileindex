@@ -1,0 +1,65 @@
+@import "varibles";
+@import "mixin";
+$btn-sizing:0.5; 
+$btn-font-size:1;
+$bottom-right-margin: 5px;
+$btn-color:$white;
+.rubrikator {
+	background-color: $hcolor;
+}
+
+
+
+
+.content {margin-top: 20px; }
+   
+.rubrikator {
+	// margin-bottom: 20px;
+	ul{	padding: 0 15px;}	
+	text-decoration: none;
+	li {
+		@include fastlink($gray60,lighten($gray60, 20%));
+		margin-right: $bottom-right-margin;
+		margin-bottom: $bottom-right-margin+3;
+		display: inline-block;
+		transition: all 0.6s;
+		&:hover {
+			background-color: $gray69;
+			transition: all 0s;	} 
+	a {
+		font-family:$basefont;
+		font-weight: 100;
+		font-size: $btn-font-size+em;
+		text-decoration: none;
+		padding: 6px*$btn-sizing 8px*$btn-sizing+5;
+		border: 1px solid $gray69;
+		display: inline-block;
+	}
+	}
+	
+	@include mf(480,0) {
+		a {
+			padding: 4px*$btn-sizing 6px*$btn-sizing;
+			/* min-width: 170px; */
+		}
+		&  {
+			text-align: center;
+		}
+	}
+	.container {
+		padding: 20px 0 (7-$bottom-right-margin);
+	}
+}
+.rubrikator-light {
+	background-color: #EEE;
+	li:hover {background-color: #ccc;}
+	a:hover {color: #4F4F4F;}
+}
+.rubrikator-main-header {
+	& > a {color: $migreen; font-size: 1.25em;text-decoration: underline;}
+	background-color: transparent;
+	li:hover {background-color: $migreen;}
+	li {background-color: transparent;}
+	ul li {@include fastlink($btn-color,$btn-color); a {border-color: $btn-color;}}
+	ul {padding: 0;}
+}

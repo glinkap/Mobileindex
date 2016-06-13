@@ -1,0 +1,87 @@
+
+	<div class="header " onmousedown="return false" onselectstart="return false">
+	 
+  <div id="particles-js">
+  	  <canvas class="particles-js-canvas-el">   </canvas>
+  </div>
+
+		<div class="parallax-1-temp">							
+			<div class="container ">
+				<div id="min-head-distance"></div>
+	
+				<div class="row">		 
+			
+
+					<div class="col-md-4 col-sm-12" >
+						<div class="block1">
+							<div class="telefonblok">
+								<h1 class="slogan">ПРОДВИЖЕНИЕ САЙТА, ИНТЕРНЕТ-МАГАЗИНА В МОБИЛЬНОМ ПОИСКЕ</h1>
+								<adress class="greenline">
+									<div id="mskstring">
+										<svg version="1.1" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns="http://www.w3.org/2000/svg">
+											<use xlink:href="#icon-star"></use>
+										</svg><span class="msk">Москва</span>
+									</div>
+									<a class="tel" href="tel:+79772676484"><span>+7(977)</span> <span>267-6484</span></a>
+								</adress>								
+							</div>
+							<div class="adress blackline">
+								<p>Часы работы: пн-пт с 10 до 19</p><br>
+								<p>Наш адрес: Центр дизайна ARTPLAY, Москва, ул. Нижняя  Сыромятническая, 10, корпус 2, 7 этаж, офис 703</p>
+							</div>
+							<div class="favorites">
+								<a id="fav" class="link" href="" rel="sidebar" onclick="addFav();return false">
+									<svg class="icon" version="1.1" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns="http://www.w3.org/2000/svg">
+										<use xlink:href="#icon-star"></use>
+									</svg>
+									<span> Добавить в избранное</span>
+								</a>
+							</div>
+						</div>
+					</div>
+					<div class="col-md-4 col-sm-12 col-md-push-4">
+						<div class="block3 clearfix">
+
+							<div class="miyoutube col-sm-6 col-md-12">								
+								<div>
+									<a data-target="#youtubemodal" class="open_modal" href="javascript:void(0)"><figure><img src="/images/youtube-placeholder-mobileindex.ru.png" alt="Ютубе продвижение сайта, интернет-магазина"></figure></a>
+								</div>
+							</div>
+							<div class="market col-sm-6 col-md-12">
+								<a data-target="#modal1" class="open_modal miniheadanaliz" href="javascript:void(0)">Анализ сайта</a>
+								<div class="calc">
+									<a href="#">
+										<svg xmlns:xlink="http://www.w3.org/1999/xlink" xmlns="http://www.w3.org/2000/svg">
+											<use xlink:href="#calculator"></use>
+										</svg>
+										<span> Калькулятор стоимости продвижения</span></a>
+										
+									</div>
+								</div>
+
+							</div>
+						</div>
+						<div class="col-md-4 col-sm-12 col-md-pull-4">
+<!-- ++++++++++++++ рубрикатор+++++++++++++++++ -->
+<aside class="block2 rubrikator rubrikator-main-header">	
+	<a href="/prodvizhenie-saitov.shtml">Продвижение сайтов</a>
+	<ul>
+		<li><a href="/prodvizhenie-saitov/seo-optimizaciya.shtml">SEO-оптимизация</a></li>	
+		<li><a href="/prodvizhenie-saitov/kompleksnoe.shtml">Комплексное</a></li>
+		<li><a href="/prodvizhenie-saitov/trafikovoe.shtml">По трафику</a></li>				
+		<li><a href="/prodvizhenie-saitov/po-klyuchevym-slovam.shtml">По словам</a></li>
+	</ul>	
+	<a href="/prodvizhenie-internet-magazina.shtml">Продвижение интернет-магазинов</a>
+	<ul>	
+		<li><a href="/prodvizhenie-internet-magazina/strategiya.shtml">Стратегия продвижения</a></li>
+		<li><a href="/prodvizhenie-internet-magazina/v-top-10.shtml">в топ-10</a></li>
+		<li><a href="/prodvizhenie-internet-magazina/stoimost-raskrutki.shtml">Стоимость раскрутки</a
+		</ul>
+	</aside>
+<!-- ++++++++++++++ /рубрикатор+++++++++++++++++ -->
+							</div>		
+						</div>
+					</div>				
+				</div>
+			</div>
+

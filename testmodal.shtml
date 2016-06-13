@@ -1,0 +1,36 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+	<meta charset="UTF-8">
+	<title>Document</title>
+	<!-- СПРАЙТ -->
+<!--#include virtual="images/sprite.svg" -->
+<link rel="stylesheet" href="css/forms.css">
+</head>
+<body>
+	
+	<div class="modal_div" id="modal1">
+		<form class="modal-container">
+			<div class="form-header">
+				<span>Вы выбрали тариф Mobile start</span>
+				<svg class="modal_close" xmlns="http://www.w3.org/2000/svg" width="40px" height="40px">
+					<use xlink:href="#closecross"/>
+				</svg> 
+			</div>
+			<div class="form-content">
+
+				<input type="text" name="Site" placeholder="Адрес сайта" required><br>
+				<input type="text" name="E-mail" placeholder="E-mail" required><br>
+				<input type="text" name="Phone" placeholder="Телефон"><br>
+				<input type="text" name="Name" placeholder="Имя"><br>
+			</div>
+			<div class="modal-submit"><button class="submitbtn">Отправить</button></div>
+		</form>
+	</div>
+	
+
+
+
+
+</body>
+</html>

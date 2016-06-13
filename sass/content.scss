@@ -1,0 +1,102 @@
+// @import "compass";
+// @import "compass/reset";
+@import "varibles";
+@import "mixin";
+@import "typography";
+// @include paragraph-links();
+article {@include baselinks(#333333,#333333,#333333,#333333,#333333);}
+
+
+//------------------------СНОСКИ 
+
+.blockquote { @include block-quote($gray10,$gray80); }
+.blockqute-green {
+	@include block-quote2();
+	blockquote {margin: 0; border-left: 6px solid $white; padding-left: 20px	}
+	ul li {color:$white; font-family: $italicfont; font-style: italic; } ul {margin-top: 18px;}}
+
+article img {width: 100%; max-width: 800px; margin-right: auto;display: block; margin-left: auto;}
+
+//------------------------ОБЛОЖКА СТАТЬИ
+.articlecover {		 
+	& {	background: url(../images/prodvizhenie-internet-magazina-mobileindex.ru.gif) 50% 50% no-repeat $basecolor;}	
+	.container {display: table;min-height: 200px;height: 200px;
+	@include mf(480,0){min-height: 100vh;}	}	
+	h1 {vertical-align: middle;display: table-cell;}
+}
+
+//------------------------/КОНТЕНТ СТАТЬИ	
+h1 {
+	 span {
+  	color: $white;
+  	padding: 10px;
+  	background:$gray80;    }  
+}
+article ul, article ol {margin-bottom: $mobile-padd; 
+li h4 {text-align: left;}
+}
+article .imgright {
+	@include mf(9999,1170) {
+		float: right;
+		margin-left: 20px;
+		margin-bottom: 20px;
+		max-width: 570px;		
+	}	
+	@include mf(1170,992) {
+		max-width: 440px;
+		float: right;
+		margin-left: 20px;
+		margin-bottom: 20px;
+	}
+	@include mf(991,0) {
+		max-width: 370px;
+	}
+}
+
+// article embed svg text,article embed svg tspan { font-family: latobold;}
+//Для вставки SVG
+article {embed, object, iframe {@include bl();width: 100%; max-width:800px;margin-top: 20px;margin-bottom: 20px;}}
+.misocial-share {padding: 20px 0;
+h4{ margin-top: 0;}
+} 
+
+// Anchor effects
+
+article p {
+  position: relative;
+  z-index: 1;
+  overflow: hidden;
+  backface-visibility: hidden;
+  a {
+  	
+  	overflow: hidden;
+    position: relative;
+    display: inline-block;
+    outline: none;
+    vertical-align: bottom;
+    text-decoration: none !important;
+    white-space: nowrap;
+    &::before, &::after {
+      pointer-events: none;
+      backface-visibility: hidden;    
+      font-smoothing: antialiased;
+    }
+     &::before {
+      position: absolute;
+      top: 0;
+      left: 0;
+      z-index: -1;
+      width: 100%;
+      height: 100%;
+      background-color: rgba(0,0,0,0.2);
+      content: '';
+      transition: transform 0.2s;
+      transform: translateY(95%);    
+    }
+    &:hover::before, &:focus::before {      
+      transform: translateY(0);     
+      transition: transform 0.2s;
+    }
+  }
+}
+

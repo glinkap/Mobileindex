@@ -1,0 +1,761 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+			[
+				"cdn",
+				"cdn	jQuery UI"
+			],
+			[
+				"sli",
+				"sliderValue"
+			],
+			[
+				"on",
+				"ondurationchange	Attr"
+			],
+			[
+				"re",
+				"return"
+			],
+			[
+				"f",
+				"false"
+			],
+			[
+				"jq",
+				"jquery-ui-1.11.4"
+			],
+			[
+				"min",
+				"min-width"
+			],
+			[
+				"ro",
+				"prodvizhenie-internet-magazina/"
+			],
+			[
+				"max-",
+				"max-width"
+			],
+			[
+				"mi",
+				"mimenu.js"
+			],
+			[
+				"is",
+				"isPrime"
+			],
+			[
+				"max",
+				"max-width"
+			],
+			[
+				"sk",
+				"skorost'-raboty-sajta-mobileindex.ru.jpg	w:624 h:447"
+			],
+			[
+				"block",
+				"blockquote"
+			],
+			[
+				"i",
+				"ifModule"
+			],
+			[
+				"b",
+				"border"
+			],
+			[
+				"fl",
+				"flex"
+			],
+			[
+				"j",
+				"justify-all"
+			],
+			[
+				"ali",
+				"align-items"
+			],
+			[
+				"tex",
+				"text-align"
+			],
+			[
+				"cl",
+				"class	Attr"
+			],
+			[
+				"fun",
+				"function"
+			],
+			[
+				"wi",
+				"window"
+			],
+			[
+				"d",
+				"document"
+			],
+			[
+				"a",
+				"auto"
+			],
+			[
+				"di",
+				"display"
+			]
+		]
+	},
+	"buffers":
+	[
+		{
+			"file": "index.shtml",
+			"settings":
+			{
+				"buffer_size": 25291,
+				"line_ending": "Windows"
+			}
+		}
+	],
+	"build_system": "",
+	"build_system_choices":
+	[
+	],
+	"build_varint": "",
+	"command_palette":
+	{
+		"height": 400.0,
+		"last_filter": "ins",
+		"selected_items":
+		[
+			[
+				"ins",
+				"Package Control: Install Package"
+			],
+			[
+				"dis",
+				"Package Control: Discover Packages"
+			],
+			[
+				"xml",
+				"Set Syntax: XML"
+			],
+			[
+				"svg",
+				"Set Syntax: SVG"
+			],
+			[
+				"",
+				"About"
+			],
+			[
+				"syntax html",
+				"Set Syntax: HTML"
+			],
+			[
+				"syntax xml",
+				"Set Syntax: XML"
+			],
+			[
+				"syntax s",
+				"Set Syntax: SVG"
+			],
+			[
+				"sy",
+				"Set Syntax: SVG"
+			],
+			[
+				"synt",
+				"Set Syntax: Sass"
+			],
+			[
+				"tax apa",
+				"Set Syntax: Apache Conf"
+			],
+			[
+				"syn",
+				"Set Syntax: nginx"
+			],
+			[
+				"disab",
+				"Package Control: Disable Package"
+			],
+			[
+				"SassBeautify",
+				"SassBeautify: Convert from CSS to current type"
+			],
+			[
+				"insta",
+				"Package Control: Install Package"
+			],
+			[
+				"syntax ht",
+				"Set Syntax: HTML"
+			],
+			[
+				"syntax svg",
+				"Set Syntax: SVG"
+			],
+			[
+				"syntax sass",
+				"Set Syntax: SASS"
+			],
+			[
+				"ntax xm",
+				"Set Syntax: XML"
+			],
+			[
+				"syntax coffe",
+				"Set Syntax: Gulpfile Coffee"
+			],
+			[
+				"syntax coff",
+				"Set Syntax: CoffeeScript"
+			],
+			[
+				"i",
+				"Package Control: Install Package"
+			],
+			[
+				"Package Control: ",
+				"Package Control: Install Package"
+			],
+			[
+				"Package Control: d",
+				"Package Control: Disable Package"
+			],
+			[
+				"Package Control: i",
+				"Package Control: Install Package"
+			],
+			[
+				"Package Control: in",
+				"Package Control: Install Package"
+			],
+			[
+				"Package Control: e",
+				"Package Control: Enable Package"
+			],
+			[
+				"Package Control: ins",
+				"Package Control: Install Package"
+			],
+			[
+				"Package Control: ena",
+				"Package Control: Enable Package"
+			],
+			[
+				"Package Control: inst",
+				"Package Control: Install Package"
+			],
+			[
+				"LiveReload: Enable/disable plugins",
+				"LiveReload: Enable/disable plug-ins"
+			],
+			[
+				"pack",
+				"Package Control: Disable Package"
+			],
+			[
+				"install",
+				"Package Control: Install Package"
+			]
+		],
+		"width": 472.0
+	},
+	"console":
+	{
+		"height": 126.0,
+		"history":
+		[
+		]
+	},
+	"distraction_free":
+	{
+		"menu_visible": true,
+		"show_minimap": false,
+		"show_open_files": false,
+		"show_tabs": false,
+		"side_bar_visible": false,
+		"status_bar_visible": false
+	},
+	"expanded_folders":
+	[
+		"/D/OpenServer/domains/mb.ru"
+	],
+	"file_history":
+	[
+		"/D/WEB/amp-g.ru/gulpjs.js",
+		"/D/WEB/amp-g.ru/src/template/header.html",
+		"/D/WEB/amp-g.ru/src/js/partials/app.js",
+		"/D/WEB/amp-g.ru/src/css/partials/app.scss",
+		"/D/WEB/amp-g.ru/src/css/main.scss",
+		"/D/WEB/amp-g.ru/src/js/main.js",
+		"/D/WEB/amp-g.ru/src/index.html",
+		"/D/WEB/amp-g.ru/src/template/footer.html",
+		"/C/Users/Petyan/AppData/Local/Temp/Rar$DRa0.003/sliderDelayTest/index.html",
+		"/D/OpenServer/domains/mb.ru/sass/calc-simple.scss",
+		"/D/OpenServer/domains/mb.ru/css/calc-simple.css",
+		"/D/OpenServer/domains/mb.ru/sass/content.scss",
+		"/D/OpenServer/domains/mb.ru/sass/_typography.scss",
+		"/D/OpenServer/domains/mb.ru/sass/forms.scss",
+		"/D/OpenServer/domains/mb.ru/sass/_varibles.scss",
+		"/D/OpenServer/domains/mb.ru/sass/_mixin.scss",
+		"/D/OpenServer/domains/mb.ru/index.shtml",
+		"/D/OpenServer/domains/mb.ru/oformlenie-zayavki.html",
+		"/D/OpenServer/domains/mb.ru/sass/oform-zayavki.scss",
+		"/D/OpenServer/domains/mb.ru/php/mail.php",
+		"/D/OpenServer/domains/mb.ru/jquislider.html",
+		"/D/OpenServer/domains/mb.ru/ttttrangeslider.html",
+		"/D/Work/GlinkaPetr.ru/Текущийсайт/assets/mobirise-gallery/script.js",
+		"/D/Work/GlinkaPetr.ru/Текущийсайт/index.html",
+		"/D/OpenServer/domains/mb.ru/.htaccess",
+		"/D/OpenServer/domains/mb.ru/sass/rubrikator.scss",
+		"/D/OpenServer/domains/mb.ru/sass/header.scss",
+		"/D/OpenServer/domains/mb.ru/css/mistyle.css",
+		"/D/OpenServer/domains/mb.ru/sitemap.xml",
+		"/D/OpenServer/domains/mb.ru/images/sprite.svg",
+		"/D/OpenServer/domains/mb.ru/sass/miniheader.scss",
+		"/D/OpenServer/domains/mb.ru/sass/modal.scss",
+		"/D/OpenServer/domains/mb.ru/script-bottom.html",
+		"/D/OpenServer/domains/mb.ru/modal.html",
+		"/D/OpenServer/domains/mb.ru/head.shtml",
+		"/D/OpenServer/domains/mb.ru/js/mijs.js",
+		"/D/OpenServer/domains/mb.ru/script-top.html",
+		"/D/OpenServer/domains/mb.ru/prodvizhenie-saitov/kompleksnoe.shtml",
+		"/D/OpenServer/domains/mb.ru/mini-header.shtml",
+		"/D/OpenServer/domains/mb.ru/prodvizhenie-saitov.shtml",
+		"/D/OpenServer/domains/mb.ru/prodvizhenie-internet-magazina.shtml",
+		"/D/OpenServer/domains/mb.ru/prodvizhenie-internet-magazina/strategiya.shtml",
+		"/D/OpenServer/domains/mb.ru/prodvizhenie-internet-magazina/v-top-10.shtml",
+		"/D/OpenServer/domains/mb.ru/prodvizhenie-saitov/seo-optimizaciya.shtml",
+		"/D/OpenServer/domains/mb.ru/prodvizhenie-internet-magazina/stoimost-raskrutki.shtml",
+		"/D/OpenServer/domains/mb.ru/prodvizhenie-saitov/trafikovoe.shtml",
+		"/D/OpenServer/domains/mb.ru/prodvizhenie-saitov/po-klyuchevym-slovam.shtml",
+		"/D/Dropbox/Елисеев М/сайт/index.html",
+		"/D/OpenServer/domains/mb.ru/rubrikator.html",
+		"/D/OpenServer/domains/mb.ru/footer.html",
+		"/D/OpenServer/domains/mb.ru/rubrikator-prodvizhenie-saitov.shtml",
+		"/D/OpenServer/domains/mb.ru/rubrikator-top-razdeli.html",
+		"/D/OpenServer/domains/mb.ru/menu.html",
+		"/D/OpenServer/domains/mb.ru/prodvizhenie-saitov/po-slovam.shtml",
+		"/D/OpenServer/domains/mb.ru/tests/particleJS.html",
+		"/D/OpenServer/domains/mb.ru/rubrikator-prodvizhenie-sajtov.shtml",
+		"/D/OpenServer/domains/mb.ru/kontakty.shtml",
+		"/D/OpenServer/domains/mb.ru/metrica.html",
+		"/D/OpenServer/domains/mb.ru/prodvizhenie-sajtov.shtml",
+		"/D/OpenServer/domains/mb.ru/libs/es5-shims.min.js",
+		"/D/OpenServer/domains/mb.ru/libs/share.js",
+		"/D/OpenServer/domains/mb.ru/images/sprite.html",
+		"/D/OpenServer/domains/mb.ru/robots.txt",
+		"/D/OpenServer/domains/mb.ru/social-share.html",
+		"/D/OpenServer/domains/mb.ru/tarifi.shtml",
+		"/D/OpenServer/domains/mb.ru/css/forms.css",
+		"/D/OpenServer/domains/mb.ru/testmodal.shtml",
+		"/c/users/petyan/appdata/local/temp/Scroll-to-TOP.html",
+		"/c/users/petyan/appdata/local/temp/test7.html",
+		"/D/OpenServer/domains/mb.ru/sass/_forms.scss",
+		"/D/Dropbox/Елисеев М/сайт/js/ampjs.js",
+		"/D/Dropbox/Елисеев М/сайт/Coffescript/tests.coffee",
+		"/D/Dropbox/Елисеев М/сайт/Coffescript/ampjs.coffee",
+		"/D/OpenServer/domains/mb.ru/err404.html",
+		"/D/OpenServer/domains/mb.ru/images/regionalnoe-ranzhirovanie-mobileindex.ru.svg",
+		"/D/OpenServer/domains/mb.ru/images/prodvizhenie-sajta-v-top-10-mobileindex.ru.svg",
+		"/D/OpenServer/domains/mb.ru/fonts/lato.css",
+		"/D/OpenServer/domains/mb.ru/prodvizhenie-sajta.shtml",
+		"/D/OpenServer/domains/amp-g.ru/viewportChecker.html",
+		"/D/OpenServer/domains/amp-g.ru/index.html",
+		"/D/Dropbox/Елисеев М/сайт/flickity.html",
+		"/D/Dropbox/Елисеев М/сайт/initializr/browserconfig.xml",
+		"/D/Dropbox/Елисеев М/сайт/assets/mobirise/css/style.css",
+		"/D/Dropbox/Елисеев М/сайт/initializr/index.html",
+		"/D/Dropbox/Елисеев М/сайт/images/AMPG-LOGO.svg",
+		"/D/Dropbox/Елисеев М/сайт/initializr/.htaccess",
+		"/D/Dropbox/Елисеев М/сайт/js/tests.js",
+		"/D/OpenServer/domains/amp-g.ru/assets/jQuery-viewport-checker-master/dist/jquery.viewportchecker.min.js",
+		"/D/OpenServer/domains/amp-g.ru/assets/jQuery-viewport-checker-master/src/jquery.viewportchecker.js",
+		"/D/OpenServer/domains/amp-g.ru/assets/animate.css/animate.min.css",
+		"/D/OpenServer/domains/amp-g.ru/assets/jQuery-viewport-checker-master/bower.json",
+		"/D/OpenServer/domains/amp-g.ru/assets/jQuery-viewport-checker-master/Gruntfile.js",
+		"/D/OpenServer/domains/amp-g.ru/assets/social-likes/social-likes.js",
+		"/D/OpenServer/domains/amp-g.ru/assets/socicon/css/socicon.min.css",
+		"/D/Work/MobileIndex/Mi2016-bootstrap/js/tests.js",
+		"/D/Work/MobileIndex/Mi2016-bootstrap/sass/tests.coffee",
+		"/D/OpenServer/domains/mb.ru/sass/pricing.scss",
+		"/D/Work/GlinkaPetr.ru/MobiriseCompilation/index.html",
+		"/D/Dropbox/Елисеев М/сайт/test1.html",
+		"/D/Dropbox/Елисеев М/сайт/Заглушка/index.html",
+		"/D/Dropbox/Елисеев М/сайт/robots.txt",
+		"/D/Dropbox/Елисеев М/сайт/Заглушка/Fonts/cabin.css",
+		"/D/Dropbox/Елисеев М/сайт/.htaccess",
+		"/D/Dropbox/Елисеев М/сайт/sitemap.xml",
+		"/D/Work/GlinkaPetr.ru/index.html",
+		"/D/OpenServer/domains/mb.ru/css/content.css",
+		"/D/OpenServer/domains/mb.ru/yandex-metrica.html",
+		"/D/OpenServer/domains/mb.ru/Sitemap.xml",
+		"/D/OpenServer/domains/mb.ru/css/pricing.css",
+		"/D/OpenServer/domains/mb.ru/aaa.html",
+		"/D/OpenServer/domains/mb.ru/css/modal.css",
+		"/D/OpenServer/domains/mb.ru/sass/footer.scss",
+		"/D/OpenServer/domains/mb.ru/sass/modal.coffee",
+		"/c/users/petyan/appdata/local/temp/.htaccess",
+		"/D/OpenServer/domains/mb.ru/sass/contacts.scss",
+		"/D/OpenServer/domains/mb.ru/css/miniheader.css",
+		"/D/OpenServer/domains/mb.ru/css/footer.css",
+		"/D/OpenServer/domains/mb.ru/css/header.css",
+		"/D/OpenServer/domains/mb.ru/js/header.js",
+		"/D/OpenServer/domains/mb.ru/prodvizhenie-internet-magazina/strategiya-prodvizheniya-internet-magazina.shtml",
+		"/D/OpenServer/domains/mb.ru/sass/prodvizh-inet-magaza-panel.scss",
+		"/D/OpenServer/domains/mb.ru/js/mihomepage.js",
+		"/D/OpenServer/domains/mb.ru/sass/modal.coffe",
+		"/C/Users/Petyan/AppData/Roaming/Sublime Text 3/Packages/User/Default (Windows).sublime-keymap",
+		"/C/Users/Petyan/Desktop/testsass/testsass.sass",
+		"/D/Work/MobileIndex/Mi2016-bootstrap/js/mijs.js",
+		"/D/Work/MobileIndex/Mi2016-bootstrap/css/miniheader.css",
+		"/D/Work/MobileIndex/Mi2016-bootstrap/mini-header.shtml"
+	],
+	"find":
+	{
+		"height": 30.0
+	},
+	"find_in_files":
+	{
+		"height": 0.0,
+		"where_history":
+		[
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": false,
+		"find_history":
+		[
+			"jQuery.ui",
+			"jQuery.ui.slide",
+			"jQuery.ui.slider",
+			"slide",
+			"cards",
+			"change",
+			"change.cards",
+			"block",
+			"visibility:hidden",
+			"visi",
+			"check2",
+			"ссылка 2",
+			"canvas",
+			"particles-js",
+			"canvas",
+			"мобильн",
+			"фактор",
+			"продвижение",
+			"пользователь",
+			"last",
+			"15",
+			"svg",
+			"top",
+			"#top",
+			"top",
+			"50%",
+			"$c",
+			"modal1",
+			"font-family:",
+			"font-family:lato",
+			"font-family",
+			"mbr-hero animated fadeInUp",
+			"mobirise.com",
+			"mbr-box__container mbr-section__container container",
+			"Подробнее о тарифе",
+			"h4",
+			"23shimmer",
+			"goo",
+			"    width: 100%;",
+			"    width: 100%",
+			"    width: 100%;",
+			"prodvizh-panel",
+			"para",
+			"продв",
+			"sec7",
+			"h2",
+			"margin-top: ",
+			"margin-top: -",
+			"margin-top: -15",
+			"margin-top: -150px",
+			"margin-top: -150px;",
+			"margin-top: -150px; */",
+			"top",
+			"col-md-12 col-lg-10 col-lg-offset-1",
+			"visi",
+			"cros",
+			"max-w",
+			"greenline",
+			"border",
+			"telefonblok",
+			"line",
+			"you",
+			"\"min-head-distance",
+			"28",
+			"10px",
+			"padding: 10px",
+			"10px",
+			"padding: 10px",
+			"box",
+			"telefonblok",
+			"layer0.opacity",
+			"side",
+			"side-",
+			"side-bar",
+			"side",
+			"theme",
+			"sidebar_tree",
+			"side",
+			"sidebar",
+			"sidebar_tree",
+			"tree",
+			"sidebar_tree",
+			"side",
+			"sidebar",
+			"theme",
+			"SectionOrderChanger",
+			"article",
+			"italic",
+			"itali",
+			"background-blend-mode:",
+			"10",
+			"tra",
+			".blockqute-green ",
+			".blockquote",
+			"headcolor",
+			"prodvijenie-internet-magazina.html",
+			"css",
+			"javasc",
+			"RewriteEngine",
+			"fonts",
+			"text/html",
+			"shtml",
+			"css",
+			"сыы",
+			"REWRITE ",
+			"аудит",
+			"#violetCont > div",
+			"flexbox",
+			"flex",
+			"#miautorpg p:nth-of-type(2)",
+			"#miautorpg svg",
+			"PGlogo",
+			"#miautorpg svg",
+			"@media (max-width: 1035px) and (min-width: 768px)",
+			"@media (max-width: 1035px) and (min-width: 768px)\n#footerViolet {",
+			"up",
+			"mouse",
+			"incremen",
+			"increment_selection",
+			"cincrement",
+			"value",
+			"digi",
+			"#footerViolet",
+			"highlight_line",
+			"ctrl+alt+l",
+			"reind"
+		],
+		"highlight": true,
+		"in_selection": false,
+		"preserve_case": false,
+		"regex": false,
+		"replace_history":
+		[
+		],
+		"reverse": false,
+		"show_context": true,
+		"use_buffer2": true,
+		"whole_word": false,
+		"wrap": true
+	},
+	"groups":
+	[
+		{
+			"selected": 0,
+			"sheets":
+			[
+				{
+					"buffer": 0,
+					"file": "index.shtml",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 25291,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								1272,
+								1272
+							]
+						],
+						"settings":
+						{
+							"BracketHighlighterBusy": false,
+							"bh_regions":
+							[
+								"bh_curly",
+								"bh_curly_center",
+								"bh_curly_open",
+								"bh_curly_close",
+								"bh_curly_content",
+								"bh_regex",
+								"bh_regex_center",
+								"bh_regex_open",
+								"bh_regex_close",
+								"bh_regex_content",
+								"bh_square",
+								"bh_square_center",
+								"bh_square_open",
+								"bh_square_close",
+								"bh_square_content",
+								"bh_single_quote",
+								"bh_single_quote_center",
+								"bh_single_quote_open",
+								"bh_single_quote_close",
+								"bh_single_quote_content",
+								"bh_angle",
+								"bh_angle_center",
+								"bh_angle_open",
+								"bh_angle_close",
+								"bh_angle_content",
+								"bh_double_quote",
+								"bh_double_quote_center",
+								"bh_double_quote_open",
+								"bh_double_quote_close",
+								"bh_double_quote_content",
+								"bh_unmatched",
+								"bh_unmatched_center",
+								"bh_unmatched_open",
+								"bh_unmatched_close",
+								"bh_unmatched_content",
+								"bh_round",
+								"bh_round_center",
+								"bh_round_open",
+								"bh_round_close",
+								"bh_round_content",
+								"bh_default",
+								"bh_default_center",
+								"bh_default_open",
+								"bh_default_close",
+								"bh_default_content",
+								"bh_c_define",
+								"bh_c_define_center",
+								"bh_c_define_open",
+								"bh_c_define_close",
+								"bh_c_define_content",
+								"bh_tag",
+								"bh_tag_center",
+								"bh_tag_open",
+								"bh_tag_close",
+								"bh_tag_content"
+							],
+							"bs_sintax": "html",
+							"buffer_scroll_name": "1c3914f5",
+							"spell_check": false,
+							"syntax": "Packages/HTML/HTML.sublime-syntax"
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 0,
+					"type": "text"
+				}
+			]
+		}
+	],
+	"incremental_find":
+	{
+		"height": 30.0
+	},
+	"input":
+	{
+		"height": 31.0
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			]
+		],
+		"cols":
+		[
+			0.0,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			1.0
+		]
+	},
+	"menu_visible": true,
+	"output.find_results":
+	{
+		"height": 0.0
+	},
+	"output.unsaved_changes":
+	{
+		"height": 118.0
+	},
+	"pinned_build_system": "",
+	"project": "mobileindex.sublime-project",
+	"replace":
+	{
+		"height": 56.0
+	},
+	"save_all_on_build": true,
+	"select_file":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 500.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 380.0
+	},
+	"select_symbol":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"selected_group": 0,
+	"settings":
+	{
+	},
+	"show_minimap": true,
+	"show_open_files": true,
+	"show_tabs": true,
+	"side_bar_visible": true,
+	"side_bar_width": 259.0,
+	"status_bar_visible": true,
+	"template_settings":
+	{
+	}
+}

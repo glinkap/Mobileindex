@@ -1,0 +1,36 @@
+.rubrikator { background-color: #333333; }
+
+.content { margin-top: 20px; }
+
+.rubrikator { text-decoration: none; }
+.rubrikator ul { padding: 0 15px; }
+.rubrikator li { color: #666666; text-decoration: underline; text-weight: bold; outline: none; margin-right: 5px; margin-bottom: 8px; display: inline-block; -webkit-transition: all 0.6s; transition: all 0.6s; }
+.rubrikator li a { outline: none; color: #666666; }
+.rubrikator li a:visited { color: #666666; }
+.rubrikator li a:hover { color: #999999; }
+.rubrikator li a:active { color: #666666; }
+.rubrikator li a:focus { color: #666666; }
+.rubrikator li:hover { background-color: #4F4F4F; -webkit-transition: all 0s; transition: all 0s; }
+.rubrikator li a { font-family: latoregular, Trebuchet MS, Lucida Console, Geneva; font-weight: 100; font-size: 1em; text-decoration: none; padding: 3px 9px; border: 1px solid #4F4F4F; display: inline-block; }
+@media only screen and (max-width: 480px) and (min-width: 0px) { .rubrikator a { padding: 2px 3px /* min-width: 170px; */ }
+  .rubrikator { text-align: center; } }
+.rubrikator .container { padding: 20px 0 2px; }
+
+.rubrikator-light { background-color: #EEE; }
+.rubrikator-light li:hover { background-color: #ccc; }
+.rubrikator-light a:hover { color: #4F4F4F; }
+
+.rubrikator-main-header { background-color: transparent; }
+.rubrikator-main-header > a { color: #91FF00; font-size: 1.25em; text-decoration: underline; }
+.rubrikator-main-header li:hover { background-color: #91FF00; }
+.rubrikator-main-header li { background-color: transparent; }
+.rubrikator-main-header ul li { color: #fff; text-decoration: underline; text-weight: bold; outline: none; }
+.rubrikator-main-header ul li a { outline: none; color: #fff; }
+.rubrikator-main-header ul li a:visited { color: #fff; }
+.rubrikator-main-header ul li a:hover { color: #fff; }
+.rubrikator-main-header ul li a:active { color: #fff; }
+.rubrikator-main-header ul li a:focus { color: #fff; }
+.rubrikator-main-header ul li a { border-color: #fff; }
+.rubrikator-main-header ul { padding: 0; }
+
+/*# sourceMappingURL=rubrikator.css.map */

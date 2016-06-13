@@ -1,0 +1,15 @@
+<aside class="container-fluid rubrikator rubrikator-light">
+	<div class="container">
+		<div class="">
+			<div class="">
+				<ul>	
+						<li><a href="/prodvizhenie-saitov.shtml">Продвижение сайтов</a></li>	
+						<li><a href="/prodvizhenie-saitov/seo-optimizaciya.shtml">SEO-оптимизация</a></li>
+						<li><a href="/prodvizhenie-saitov/kompleksnoe.shtml">Комплексное</a></li>
+						<li><a href="/prodvizhenie-saitov/trafikovoe.shtml">По трафику</a></li>				
+						<li><a href="/prodvizhenie-saitov/po-klyuchevym-slovam.shtml">По словам</a></li>
+				</ul>
+			</div>
+		</div>
+	</div>
+</aside>

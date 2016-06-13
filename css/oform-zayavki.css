@@ -1,0 +1,11 @@
+.oformlenie-zayavki { padding: 50px 0; background-color: #333333; }
+.oformlenie-zayavki h2 { color: white; font-size: 2em; margin: 0; margin-bottom: 20px; }
+.oformlenie-zayavki textarea { min-height: 307px; }
+.oformlenie-zayavki input[type=text], .oformlenie-zayavki textarea { padding: 15px; color: #666666; max-width: 100%; width: 100%; height: 50px; background-color: #333333; border: 1px solid #666666; }
+.oformlenie-zayavki input[type=text]:focus, .oformlenie-zayavki textarea:focus { color: #E85163; border: 1px solid #E85163; outline: 0; box-shadow: 0px 0px 10px 0px #E85163; }
+.oformlenie-zayavki input[type=text]:not(:last-child) { margin-bottom: 23px; }
+.oformlenie-zayavki .row:first-of-type { margin-bottom: 20px; }
+.oformlenie-zayavki .submitbtn { background-color: #E85163; margin-top: 20px; }
+.oformlenie-zayavki .submitbtn:hover { background-color: #E85163; }
+
+/*# sourceMappingURL=oform-zayavki.css.map */

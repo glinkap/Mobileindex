@@ -1,0 +1,263 @@
+@import "compass";
+@import "varibles";
+@import "mixin";
+
+
+
+
+
+
+
+#youtubemodal {         
+  @include mf(9999,991) {
+    width: 920px;
+    left: calc(50% - 479px);
+     top: calc(50% - 70px);
+    margin-left: 20px;
+    margin-right: 20px;
+  }
+  @include mf(991,481) {
+    top: calc(50% - 190px);
+    max-width: 468px;
+    left: calc(50% - 233px);
+  }
+  @include mf(480,0) {
+    top: calc(50% - 190px);
+       max-width: 290px;
+    left: calc(50% - 146px);
+  }
+  .modcont {
+    position: relative;
+    padding-bottom: 56.25%;
+    height: 0;
+    overflow: hidden;
+  }
+
+
+  iframe, object, embed {
+    position: absolute; 
+    top: 0; 
+    left: 0; 
+    width: 100%;
+    height: 100%; 
+  }
+
+
+
+}
+
+.modal-base {
+  @include mf(991,0) {
+        top: calc(50% - 240px);
+  }
+}
+
+.modal_div {
+  min-height: 300px;
+  width: 100%; 
+  display: none; 
+  position: fixed;
+  z-index: 9999; 
+  max-height: 80vh;
+  .modhead {
+    display: table;
+    width: 100%;
+    padding-top: 5px;
+    padding-bottom: 5px;
+    background-color: #666AAB;
+  }
+   @include mf(991,0) {
+      h4 {
+        font-size: 1em;
+      }
+    }
+  h4 {      
+    display: table-cell;
+    vertical-align: middle;
+    color: #ffffff;
+    text-align: left;
+    padding-left: 30px;
+    margin: 10px 0px;
+  }
+}
+
+@media (min-width: 991px) {
+  .modal_div {
+    width: 500px;
+    top: 50%;
+    // transform:translateY(-50%);
+    left: 50%;
+    margin: -240px 100px 0px -230px;
+  }
+  #spasibo {
+    margin-left: -230px !important;
+  }
+}
+
+
+.modcontainer {
+  margin: 0px 20px;
+  background: #6E72B6;
+  -webkit-box-shadow: 0px 0px 22px 5px rgba(0, 0, 0, 0.3);
+  -moz-box-shadow: 0px 0px 22px 5px rgba(0, 0, 0, 0.3);
+  box-shadow: 0px 0px 22px 5px rgba(0, 0, 0, 0.3);
+}
+
+
+
+.modal_div .modal_close {
+  margin-right: 20px;
+  cursor: pointer;
+  display: table-cell;
+  vertical-align: middle;
+  float: right;
+  margin-top: 0px;
+  margin-right: 28px;
+}
+
+#overlay {
+  z-index: 9998;
+  position: fixed;
+  background-color: #27AE60;
+  opacity: 0.8;
+  -moz-opacity: 0.8;
+  filter: alpha(opacity = 80);
+  width: 100%;
+  height: 100%;
+  top: 0;
+  left: 0;
+  cursor: pointer;
+  display: none;
+}
+
+.submitbtn {
+  font-size: 20px;
+  border: none;
+  font-family: latoregular;
+  width: 100%;
+  background-color: #666AAB;
+  color: #ffffff;
+  cursor: pointer;
+  text-align: center;
+  height: 60px;
+  padding-top: 5px;
+  -webkit-transition: all 0.3s;
+  -o-transition: all 0.3s;
+  transition: all 0.3s;
+  &:hover {
+    border: none;
+    background-color: #848ad0;
+  }
+}
+
+.modal_div form {
+  @include mf(1024,0) {
+   input[type=text] {
+    height: 30px;
+    }
+    input[type=checkbox] {
+    height: 30px !important;
+    width: 30px !important;
+    }
+    .block-checkboxes span {
+      margin-top: 0;
+    }
+  }
+  padding: 30px 30px;
+  input[type=text] {
+    width: 100%;
+  }
+  input {
+    color: #6e72b6;
+    background-color: #d6d8fc;
+    
+    height: 50px;
+    margin-bottom: 20px;
+    padding: 0px 20px;
+    font-size: 22px;
+    color: #898989;
+    border: none;
+    &:focus {
+      color: #6e72b6;
+      border: none;
+      outline: 0;
+      -webkit-box-shadow: inset 0px 0px 10px 0px #6e72b6;
+      -moz-box-shadow: inset 0px 0px 10px 0px #6e72b6;
+      box-shadow: 0px 0px 10px 0px #92FF00;
+    }
+  }
+}
+
+#spasibo {
+  margin: -136px 100px 0px 0px;
+  .modcont {
+    padding: 30px 0px;
+    p {
+      color: white;
+      font-size: 20px;
+    }
+    font-family: latobold;
+    color: #92FF00;
+    text-align: center;
+    display: block;
+    padding-left: 0;
+  }
+  h4 {
+    font-family: latobold;
+    color: #92FF00;
+    text-align: center;
+    display: block;
+    padding-left: 0;
+  }
+  button {
+    max-width: 300px;
+  }
+}
+
+
+ #modal-tarif {
+  // transform:translateY(-50%);
+  
+  @include mf(9999,991) {
+  
+    margin: -290px 100px 0px -230px;
+
+  }
+ }
+.block-checkboxes {
+
+  .checkboxes {
+    margin-bottom: 20px;
+    display: inline-block;
+    input[type=checkbox] {
+      width: 50px;
+      height: 50px;
+      margin-bottom: 0;
+      display: inline-block;
+      vertical-align: middle;
+      margin-right: 15px;
+      
+    }
+  }
+  input[type="checkbox"]:checked {
+    color: $violet;
+  }
+  span  {
+    display: block;
+    color: white;
+    margin-bottom: 15px;
+    margin-top: 10px;
+    font-size: 20px;
+  }
+  label {
+    display: inline-block;
+    vertical-align: middle;
+    color: white;
+    font-size: 20px;
+  }
+
+label:first-of-type {
+  margin-right: 20px;
+}
+
+}

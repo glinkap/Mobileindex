@@ -1,0 +1,146 @@
+@mixin dflinks () {
+	a {
+		color: $basecolor;
+		text-decoration: underline;
+		text-weight: bold;
+		outline:none;
+		&:visited {
+			color: $basecolor;
+		}
+		&:hover {
+			color: $basecolor;
+		}
+		&:active {
+			color: $basecolor;
+		}
+		&:focus {
+			color: $basecolor;
+		}		
+	}
+}
+
+@mixin mobilebtn (){
+	@include mf(991,0) {				
+				text-align: center;				
+				border: 1px solid $gray80;
+				padding-top: $padd-btn;
+				padding-bottom: $padd-btn;				
+				display: block;
+				max-width: 400px;
+				margin-left: auto;
+				margin-right: auto;
+				margin-top: $mobile-padd;
+				margin-bottom: $mobile-padd - 8;
+				
+			}
+}
+
+
+@mixin paragraph-links () {
+	p a {
+		color: $basecolor;
+		text-decoration: underline;
+		text-weight: bold;
+		outline:none;
+		&:visited {
+			color: $basecolor;
+		}
+		&:hover {
+			color: $basecolor;
+		}
+		&:active {
+			color: $basecolor;
+		}
+		&:focus {
+			color: $basecolor;
+		}
+	}
+}
+
+@mixin mf($maxwidth,$minwidth:0) {
+	@media only screen and (max-width: $maxwidth + "px") and (min-width: $minwidth + "px") {
+		@content
+	}}
+
+
+@mixin block-quote ($background,$wikicolor) {
+		& {
+		margin-bottom: $mobile-padd;	
+		background-color: $background;
+		padding: 20px 30px;
+		@include mf(480,0) {
+			p {
+				font-size: 0.9em;
+				}	
+			}	
+		p {
+			font-family: $italicfont;
+			font-style: italic;
+			margin-bottom: 0;
+			line-height: 1.3em;
+			color: $wikicolor;
+			font-weight: 400;
+		}
+		span {
+			font-weight: 600;
+		}}
+}	
+
+@mixin block-quote2 () {
+	@include block-quote($basecolor,$white); }  
+
+@mixin baselinks ($a-color,$a-active,$a-hover,$a-visited,$a-focus) {
+	a {
+		outline:none;
+		color: $a-color;	
+		&:visited {
+			color: $a-visited;
+		}
+		&:hover {
+			color: $a-hover;
+		}
+		&:active {
+			color: $a-active;
+		}
+		&:focus {
+			color: $a-focus;
+		}
+	}
+}	
+
+
+@mixin flex() {
+	@include mf(9999,991) {
+		display:flex;
+		align-items: center;
+	}
+}
+@mixin fastlink ($fastlink:$gray80,$fastlinkh:$gray80) {
+		color: $fastlink;
+		text-decoration: underline;
+		text-weight: bold;
+		outline:none;
+		a {
+		outline:none;
+		color: $fastlink;	
+		&:visited {
+			color: $fastlink;
+		}
+		&:hover {
+			color: $fastlinkh;
+		}
+		&:active {
+			color: $fastlink;
+		}
+		&:focus {
+			color: $fastlink;
+		}
+	}
+}
+
+
+@mixin bl () {
+	margin-right: auto;
+    margin-left: auto;
+    display: block;
+}

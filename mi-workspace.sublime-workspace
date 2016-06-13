@@ -1,0 +1,650 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+			[
+				"mi",
+				"mimenu.js"
+			],
+			[
+				"is",
+				"isPrime"
+			],
+			[
+				"max",
+				"max-width"
+			],
+			[
+				"sk",
+				"skorost'-raboty-sajta-mobileindex.ru.jpg	w:624 h:447"
+			],
+			[
+				"block",
+				"blockquote"
+			],
+			[
+				"i",
+				"ifModule"
+			],
+			[
+				"b",
+				"border"
+			],
+			[
+				"fl",
+				"flex"
+			],
+			[
+				"j",
+				"justify-all"
+			],
+			[
+				"ali",
+				"align-items"
+			],
+			[
+				"min",
+				"min-height"
+			],
+			[
+				"tex",
+				"text-align"
+			],
+			[
+				"cl",
+				"class	Attr"
+			],
+			[
+				"fun",
+				"function"
+			],
+			[
+				"wi",
+				"window"
+			],
+			[
+				"d",
+				"document"
+			],
+			[
+				"f",
+				"function"
+			],
+			[
+				"re",
+				"resize"
+			],
+			[
+				"a",
+				"auto"
+			],
+			[
+				"di",
+				"display"
+			]
+		]
+	},
+	"buffers":
+	[
+		{
+			"file": "sass/miniheader.scss",
+			"settings":
+			{
+				"buffer_size": 79,
+				"line_ending": "Windows"
+			}
+		},
+		{
+			"contents": "<!DOCTYPE html>\n<html lang=\"en\">\n<head>\n	<meta charset=\"UTF-8\">\n	<title>Document</title>\n</head>\n<body>\n<link rel=\"stylesheet\" href=\"css/bootstrap-grid-3.3.1.min.css\">	\n<link rel=\"stylesheet\" href=\"css/miniheader.css\">\n\n<!-- .container>.row>.col-sm-4*3>p -->\n<div class=\"container\">\n	<div class=\"row\">\n		<div class=\"col-sm-4\">\n			<p>ПРОДВИЖЕНИЕ САЙТА, ИНТЕРНЕТ-МАГАЗИНОВ МОБИЛЬНОМ ПОИСКЕ</p>\n			<svg></svg><span>Москва</span>\n			<a href=\"tel:+79772676484\"><span>+7(977)</span> <span>267-6484</span></a>\n		</div>\n		<div class=\"col-sm-4\">\n			<p>Часы работы: пн-пт с 10 до 19</p>\n			<p>Наш адрес: Центр дизайна ARTPLAY, Москва, ул. Нижняя  Сыромятническая, 10, корпус 2, 7 этаж, офис 703</p>\n		</div>\n		<div class=\"col-sm-4\">\n			<svg></svg><p>Калькулятор стоимости продвижения</p>\n		</div>\n	</div>\n</div>\n\n\n\n\n\n\n\n\n\n</body>\n</html>",
+			"file": "mini-header.html",
+			"file_size": 1028,
+			"file_write_time": 131028272686567001,
+			"settings":
+			{
+				"buffer_size": 827,
+				"line_ending": "Windows"
+			}
+		}
+	],
+	"build_system": "",
+	"build_system_choices":
+	[
+	],
+	"build_varint": "",
+	"command_palette":
+	{
+		"height": 259.0,
+		"last_filter": "syntax coffe",
+		"selected_items":
+		[
+			[
+				"syntax coffe",
+				"Set Syntax: Gulpfile Coffee"
+			],
+			[
+				"syntax coff",
+				"Set Syntax: CoffeeScript"
+			],
+			[
+				"i",
+				"Package Control: Install Package"
+			],
+			[
+				"Package Control: ",
+				"Package Control: Install Package"
+			],
+			[
+				"Package Control: d",
+				"Package Control: Disable Package"
+			],
+			[
+				"Package Control: i",
+				"Package Control: Install Package"
+			],
+			[
+				"Package Control: in",
+				"Package Control: Install Package"
+			],
+			[
+				"Package Control: e",
+				"Package Control: Enable Package"
+			],
+			[
+				"Package Control: ins",
+				"Package Control: Install Package"
+			],
+			[
+				"Package Control: ena",
+				"Package Control: Enable Package"
+			],
+			[
+				"Package Control: inst",
+				"Package Control: Install Package"
+			],
+			[
+				"LiveReload: Enable/disable plugins",
+				"LiveReload: Enable/disable plug-ins"
+			],
+			[
+				"pack",
+				"Package Control: Disable Package"
+			],
+			[
+				"install",
+				"Package Control: Install Package"
+			],
+			[
+				"insta",
+				"Package Control: Install Package"
+			]
+		],
+		"width": 472.0
+	},
+	"console":
+	{
+		"height": 126.0,
+		"history":
+		[
+		]
+	},
+	"distraction_free":
+	{
+		"menu_visible": true,
+		"show_minimap": false,
+		"show_open_files": false,
+		"show_tabs": false,
+		"side_bar_visible": false,
+		"status_bar_visible": false
+	},
+	"expanded_folders":
+	[
+		"/D/Work/MobileIndex/Mi2016-bootstrap/css"
+	],
+	"file_history":
+	[
+		"/D/Work/MobileIndex/Mi2016-bootstrap/footer.html",
+		"/D/Work/MobileIndex/Mi2016-bootstrap/modal.html",
+		"/D/Work/MobileIndex/Mi2016-bootstrap/index.shtml",
+		"/D/Work/MobileIndex/Mi2016-bootstrap/js/mihomepage.js",
+		"/D/Work/MobileIndex/Mi2016-bootstrap/css/miniheader.css",
+		"/D/Work/MobileIndex/Mi2016-bootstrap/prodvizhenie-internet-magazina.shtml",
+		"/D/Work/MobileIndex/Mi2016-bootstrap/css/content.css",
+		"/D/Work/MobileIndex/Mi2016-bootstrap/css/prodvizh-inet-magaza-panel.css",
+		"/D/Work/MobileIndex/Mi2016-bootstrap/sass/prodvizh-inet-magaza-panel.scss",
+		"/D/Work/MobileIndex/Mi2016-bootstrap/sass/_mixin.scss",
+		"/D/Work/MobileIndex/Mi2016-bootstrap/css/mistyle.css",
+		"/D/Work/MobileIndex/Mi2016-bootstrap/sass/lib/_media.sass",
+		"/D/Work/MobileIndex/Mi2016-bootstrap/sass/lib/_mixins.sass",
+		"/D/Work/MobileIndex/Mi2016-bootstrap/sass/_typography.scss",
+		"/D/Work/MobileIndex/Mi2016-bootstrap/sass/_varibles.scss",
+		"/D/Work/MobileIndex/Mi2016-bootstrap/sass/content.scss",
+		"/D/Work/MobileIndex/Mi2016-bootstrap/js/tests.js",
+		"/D/Work/MobileIndex/Mi2016-bootstrap/js/mimenu.js",
+		"/D/Work/MobileIndex/Mi2016-bootstrap/sass/miniheader.scss",
+		"/D/Work/MobileIndex/Mi2016-bootstrap/sass/menu.coffee",
+		"/D/Work/MobileIndex/Mi2016-bootstrap/sass/miniheader.sass",
+		"/D/Work/MobileIndex/Mi2016-bootstrap/js/mijs.js",
+		"/C/Users/Petyan/AppData/Roaming/Sublime Text 3/Packages/User/Default (Windows).sublime-keymap",
+		"/D/Work/MobileIndex/Mi2016-bootstrap/fonts/lato.css",
+		"/C/Users/Petyan/AppData/Roaming/Sublime Text 3/Packages/SideBarEnhancements/Default (Windows).sublime-keymap",
+		"/D/Work/MobileIndex/Mi2016-bootstrap/menu.html",
+		"/C/Users/Petyan/AppData/Roaming/Sublime Text 3/Packages/User/Preferences.sublime-settings",
+		"/C/Users/Petyan/AppData/Roaming/Sublime Text 3/Packages/Seti_UI/Seti.sublime-theme",
+		"/C/Users/Petyan/AppData/Roaming/Sublime Text 3/Packages/Theme - Default/Default.sublime-theme",
+		"/C/Users/Petyan/AppData/Roaming/Sublime Text 3/Packages/Default/Preferences.sublime-settings",
+		"/C/Users/Petyan/AppData/Roaming/Sublime Text 3/Packages/User/Side Bar Folders/Main.sublime-menu",
+		"/D/Work/MobileIndex/Mi2016-bootstrap/sass/_typography.sass",
+		"/D/Work/MobileIndex/Mi2016-bootstrap/sass/prodvizh-inet-magaza-panel.sass",
+		"/D/Work/MobileIndex/Mi2016-bootstrap/js/jquery.min.js",
+		"/D/Work/MobileIndex/Mi2016-bootstrap/mobileindex.sublime-project",
+		"/C/Users/Petyan/AppData/Local/Temp/Rar$DIa0.377/_base.scss",
+		"/D/Work/MobileIndex/Mi2016-bootstrap/SCSS/content.scss",
+		"/D/Work/MobileIndex/Mi2016-bootstrap/sass/screen.scss",
+		"/D/Work/MobileIndex/Mi2016-bootstrap/css/screen.css",
+		"/D/Work/MobileIndex/Mi2016-bootstrap/config.rb",
+		"/D/Work/MobileIndex/Mi2016-bootstrap/stylesheets/screen.css",
+		"/D/Work/MobileIndex/Mi2016-bootstrap/sass/print.scss",
+		"/D/Work/MobileIndex/Mi2016-bootstrap/sass/ie.scss",
+		"/c/users/petyan/appdata/local/temp/test7.html",
+		"/D/Work/MobileIndex/Mi2016-bootstrap/test4.shtml",
+		"/D/Work/MobileIndex/Mi2016-bootstrap/test1.html",
+		"/c/users/petyan/appdata/local/temp/.htaccess",
+		"/C/Users/Petyan/Documents/Lightshot/.htaccess",
+		"/D/Work/MobileIndex/Mi2016-bootstrap/.htaccess",
+		"/D/Work/MobileIndex/Mi2016-bootstrap/test3.html",
+		"/D/Work/MobileIndex/Mi2016-bootstrap/test7.html",
+		"/C/Users/Petyan/AppData/Roaming/Sublime Text 3/Packages/Default/Default (Windows).sublime-keymap",
+		"/D/Work/MobileIndex/Mi2016-bootstrap/css/footer.css",
+		"/D/Work/MobileIndex/Mi2016-bootstrap/SCSS/footer.scss",
+		"/C/Users/Petyan/AppData/Roaming/Sublime Text 3/Packages/GitGutter/Default (Windows).sublime-keymap",
+		"/C/Users/Petyan/AppData/Roaming/Sublime Text 3/Packages/Goto-CSS-Declaration/Default (Windows).sublime-keymap",
+		"/D/Work/koala-proj1/main.scss",
+		"/C/Users/Petyan/AppData/Roaming/Sublime Text 3/Packages/Gist/Gist.sublime-settings",
+		"/D/Work/koala-proj1/main.css",
+		"/D/Work/koala-proj1/index.html",
+		"/D/Work/MobileIndex/Mi2016-bootstrap/test2.html",
+		"/D/Work/MobileIndex/Mi2016-bootstrap/index.html",
+		"/C/Users/Petyan/AppData/Roaming/Sublime Text 3/Packages/User/LiveReload.sublime-settings",
+		"/C/Users/Petyan/AppData/Roaming/Sublime Text 3/Packages/User/Package Control.sublime-settings",
+		"/C/Users/Petyan/AppData/Roaming/Sublime Text 3/Packages/LiveReload/LiveReload.sublime-settings",
+		"/C/Users/Petyan/AppData/Roaming/Sublime Text 3/Packages/User/View In Browser.sublime-settings",
+		"/C/Users/Petyan/AppData/Roaming/Sublime Text 3/Packages/View In Browser/View In Browser.sublime-settings"
+	],
+	"find":
+	{
+		"height": 38.0
+	},
+	"find_in_files":
+	{
+		"height": 0.0,
+		"where_history":
+		[
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": false,
+		"find_history":
+		[
+			"layer0.opacity",
+			"side",
+			"side-",
+			"side-bar",
+			"side",
+			"theme",
+			"sidebar_tree",
+			"side",
+			"sidebar",
+			"sidebar_tree",
+			"tree",
+			"sidebar_tree",
+			"side",
+			"sidebar",
+			"theme",
+			"SectionOrderChanger",
+			"article",
+			"italic",
+			"itali",
+			"background-blend-mode:",
+			"10",
+			"tra",
+			".blockqute-green ",
+			".blockquote",
+			"headcolor",
+			"prodvijenie-internet-magazina.html",
+			"css",
+			"javasc",
+			"RewriteEngine",
+			"fonts",
+			"text/html",
+			"shtml",
+			"css",
+			"сыы",
+			"REWRITE ",
+			"аудит",
+			"#violetCont > div",
+			"flexbox",
+			"flex",
+			"#miautorpg p:nth-of-type(2)",
+			"#miautorpg svg",
+			"PGlogo",
+			"#miautorpg svg",
+			"@media (max-width: 1035px) and (min-width: 768px)",
+			"@media (max-width: 1035px) and (min-width: 768px)\n#footerViolet {",
+			"up",
+			"mouse",
+			"incremen",
+			"increment_selection",
+			"cincrement",
+			"value",
+			"digi",
+			"#footerViolet",
+			"highlight_line",
+			"ctrl+alt+l",
+			"reind"
+		],
+		"highlight": true,
+		"in_selection": false,
+		"preserve_case": false,
+		"regex": false,
+		"replace_history":
+		[
+		],
+		"reverse": false,
+		"show_context": true,
+		"use_buffer2": true,
+		"whole_word": false,
+		"wrap": true
+	},
+	"groups":
+	[
+		{
+			"selected": 1,
+			"sheets":
+			[
+				{
+					"buffer": 0,
+					"file": "sass/miniheader.scss",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 79,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								79,
+								79
+							]
+						],
+						"settings":
+						{
+							"BracketHighlighterBusy": false,
+							"bh_regions":
+							[
+								"bh_square",
+								"bh_square_center",
+								"bh_square_open",
+								"bh_square_close",
+								"bh_square_content",
+								"bh_regex",
+								"bh_regex_center",
+								"bh_regex_open",
+								"bh_regex_close",
+								"bh_regex_content",
+								"bh_default",
+								"bh_default_center",
+								"bh_default_open",
+								"bh_default_close",
+								"bh_default_content",
+								"bh_round",
+								"bh_round_center",
+								"bh_round_open",
+								"bh_round_close",
+								"bh_round_content",
+								"bh_angle",
+								"bh_angle_center",
+								"bh_angle_open",
+								"bh_angle_close",
+								"bh_angle_content",
+								"bh_curly",
+								"bh_curly_center",
+								"bh_curly_open",
+								"bh_curly_close",
+								"bh_curly_content",
+								"bh_double_quote",
+								"bh_double_quote_center",
+								"bh_double_quote_open",
+								"bh_double_quote_close",
+								"bh_double_quote_content",
+								"bh_single_quote",
+								"bh_single_quote_center",
+								"bh_single_quote_open",
+								"bh_single_quote_close",
+								"bh_single_quote_content",
+								"bh_tag",
+								"bh_tag_center",
+								"bh_tag_open",
+								"bh_tag_close",
+								"bh_tag_content",
+								"bh_unmatched",
+								"bh_unmatched_center",
+								"bh_unmatched_open",
+								"bh_unmatched_close",
+								"bh_unmatched_content",
+								"bh_c_define",
+								"bh_c_define_center",
+								"bh_c_define_open",
+								"bh_c_define_close",
+								"bh_c_define_content"
+							],
+							"bs_sintax": "sass",
+							"buffer_scroll_name": "52cb8210",
+							"color_scheme": "Packages/User/Color Highlighter/themes/Afterglow-monokai (SL).tmTheme",
+							"spell_check": false,
+							"syntax": "Packages/Sass/Syntaxes/Sass.tmLanguage"
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 1,
+					"type": "text"
+				},
+				{
+					"buffer": 1,
+					"file": "mini-header.html",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 827,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								778,
+								778
+							]
+						],
+						"settings":
+						{
+							"BracketHighlighterBusy": false,
+							"auto_name": "",
+							"bh_regions":
+							[
+								"bh_square",
+								"bh_square_center",
+								"bh_square_open",
+								"bh_square_close",
+								"bh_square_content",
+								"bh_regex",
+								"bh_regex_center",
+								"bh_regex_open",
+								"bh_regex_close",
+								"bh_regex_content",
+								"bh_default",
+								"bh_default_center",
+								"bh_default_open",
+								"bh_default_close",
+								"bh_default_content",
+								"bh_round",
+								"bh_round_center",
+								"bh_round_open",
+								"bh_round_close",
+								"bh_round_content",
+								"bh_angle",
+								"bh_angle_center",
+								"bh_angle_open",
+								"bh_angle_close",
+								"bh_angle_content",
+								"bh_curly",
+								"bh_curly_center",
+								"bh_curly_open",
+								"bh_curly_close",
+								"bh_curly_content",
+								"bh_double_quote",
+								"bh_double_quote_center",
+								"bh_double_quote_open",
+								"bh_double_quote_close",
+								"bh_double_quote_content",
+								"bh_single_quote",
+								"bh_single_quote_center",
+								"bh_single_quote_open",
+								"bh_single_quote_close",
+								"bh_single_quote_content",
+								"bh_tag",
+								"bh_tag_center",
+								"bh_tag_open",
+								"bh_tag_close",
+								"bh_tag_content",
+								"bh_unmatched",
+								"bh_unmatched_center",
+								"bh_unmatched_open",
+								"bh_unmatched_close",
+								"bh_unmatched_content",
+								"bh_c_define",
+								"bh_c_define_center",
+								"bh_c_define_open",
+								"bh_c_define_close",
+								"bh_c_define_content"
+							],
+							"bs_sintax": "plain text",
+							"buffer_scroll_name": "1c1b300d",
+							"color_scheme": "Packages/User/Color Highlighter/themes/Afterglow-monokai (SL).tmTheme",
+							"spell_check": false,
+							"syntax": "Packages/HTML/HTML.sublime-syntax"
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 0,
+					"type": "text"
+				}
+			]
+		},
+		{
+			"sheets":
+			[
+			]
+		}
+	],
+	"incremental_find":
+	{
+		"height": 23.0
+	},
+	"input":
+	{
+		"height": 31.0
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			],
+			[
+				0,
+				1,
+				1,
+				2
+			]
+		],
+		"cols":
+		[
+			0.0,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			0.659348349232,
+			1.0
+		]
+	},
+	"menu_visible": false,
+	"output.find_results":
+	{
+		"height": 0.0
+	},
+	"output.unsaved_changes":
+	{
+		"height": 118.0
+	},
+	"pinned_build_system": "",
+	"project": "mobileindex.sublime-project",
+	"replace":
+	{
+		"height": 42.0
+	},
+	"save_all_on_build": true,
+	"select_file":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 500.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 380.0
+	},
+	"select_symbol":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"selected_group": 0,
+	"settings":
+	{
+	},
+	"show_minimap": true,
+	"show_open_files": true,
+	"show_tabs": true,
+	"side_bar_visible": false,
+	"side_bar_width": 156.0,
+	"status_bar_visible": true,
+	"template_settings":
+	{
+	}
+}

@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- Generator: Adobe Illustrator 18.1.1, SVG Export Plug-In . SVG Version: 6.00 Build 0)  -->
+<svg version="1.1" id="Layer_1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px"
+	 viewBox="0 0 1280 180" enable-background="new 0 0 1280 180" xml:space="preserve">
+<g id="line">
+	<g>
+		
+			<line fill="none" stroke="#27AE60" stroke-width="17" stroke-linecap="round" stroke-linejoin="round" x1="1232" y1="90.5" x2="1232" y2="90.5"/>
+		
+			<line fill="none" stroke="#27AE60" stroke-width="17" stroke-linecap="round" stroke-linejoin="round" stroke-dasharray="0,45" x1="1187" y1="90.5" x2="80" y2="90.5"/>
+		
+			<line fill="none" stroke="#27AE60" stroke-width="17" stroke-linecap="round" stroke-linejoin="round" x1="57.7" y1="90.5" x2="57.7" y2="90.5"/>
+	</g>
+</g>
+<g id="audit">
+	<path fill="#372356" stroke="#27AE60" stroke-width="17.4053" stroke-miterlimit="10" d="M761.6,157.2H514.8
+		c-17.3,0-31.4-14.1-31.4-31.4V54.1c0-17.3,14.1-31.4,31.4-31.4h246.8c17.3,0,31.4,14.1,31.4,31.4v71.8
+		C793,143.1,779,157.2,761.6,157.2z"/>
+	<g>
+		<text transform="matrix(1 0 0 1 525.8322 81.1093)" fill="#27AE60" font-family="'Lato-Regular'" font-size="38.769">Аудит сайта</text>
+		<text transform="matrix(1 0 0 1 526.2263 117.3349)" fill="#27AE60" font-family="'Lato-Bold'" font-size="35.3537">БЕСПЛАТНО</text>
+	</g>
+</g>
+</svg>

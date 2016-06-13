@@ -1,0 +1,17 @@
+@import "varibles";
+@import "mixin";
+
+.contacts {
+	a {
+		@include fastlink();
+	}
+
+.padd {
+	margin: 20px 0 ;
+}
+iframe {
+	width: 100%;
+}
+
+
+}

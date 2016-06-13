@@ -1,0 +1,76 @@
+<!DOCTYPE html>
+<html lang="ru">
+<head>
+	<meta http-equiv="Content-type" content="text/html; charset=UTF-8"/>
+	<meta http-equiv="X-UA-Compatible" content="IE=edge">
+	<meta name="viewport" content="width=device-width, initial-scale=1">
+	<title>SEO оптимизация сайтов от Mobileindex </title>
+	<meta name="description" content="SEO оптимизация сайтов. Успешные кейсы на сайте Mobileindex. Звоните по  ☎8-(977)-267-64-84; ► start@mobileindex.ru">
+	<meta name="keywords" content="seo продвижение сайтов,seo оптимизация сайта,seo продвижение сайтов что это такое,seo продвижение сайтов цена,seo продвижение сайтов в яндекс">
+<!--#include virtual="/script-top.html" -->
+
+</head>
+<body>
+	<!--#include virtual="/images/sprite.svg" -->
+	<!--#include virtual="/menu.html" -->
+	<!--#include virtual="/mini-header.shtml" -->
+	<style> .mi-status {position: fixed;color: #9e0298;font-size: 16px;top: 200px;z-index: 99999;font-size: 26px;}</style><div class="mi-status"></div>
+<style>.articlecover {background:  url(/images/prodvizhenie-sajtov-oblozhka-mobileindex.ru.png) 50% 50% no-repeat; background-size: cover;	}</style>
+	<div class="container-fluid articlecover">
+		<div class="row">
+			<div class="container">
+				<h1><span>Поисковая SEO оптимизация сайтов</span></h1>
+			</div>
+		</div>	
+	</div>
+
+	<!--#include virtual="/rubrikator-prodvizhenie-saitov.shtml" -->
+
+	<div class="container-fluid content">
+		<div class="row">
+			<div class="container">
+				<article class="justify_if_hyphens hyphens">
+					
+					<div class="blockquote">
+							<p><b>SEO-оптимизация</b> — это оптимизация HTML кода, текста, структуры сайта под, заранее подготовленные поисковые запросы с целью дать пльзователю максимально развернутый ответ.</p>
+						</div>
+						<img src="/images/seo-optimizaciya.png" alt="SEO-оптимизация">
+						<h2>Что такое SEO продвижение сайтов?</h2>
+						<p>SEO продвижение — комплекс мер по выводу сайта на лидерские позиции за счет подготовки развернутого поискового ответа посетителю.</p>
+						<p>Главная задача продвижения сайта — не просто увеличить трафик, а создать стабильную посещаемость целевой аудитории. Только благодаря такому подходу увеличится доходность сайта.</p>
+						<p><b>SEO-оптимизация позволяет</b>  отображать релевантный контент посетителю. По запросу поисковик выдает именно те сайты, которые были оптимизированы под поисковые запросы. На первых местах поисковик выдает веб-страницы, максимально соответствующие ответу на запрос. Эти сайты имеют самую качественную информацию, услугу, большой доход среди остальных конкурентов. Задача <strong>SEO-продвижения сайтов</strong> — вывести сайт в ТОП 10 поисковых систем, тем самым увеличить посещаемость. Однако, сначала нужно оптимизировать сайт.</p>
+						<img src="/images/html5-semantika.png" alt="HTML5 Семантика Mobileindex">
+						<h2>Цели оптимизации сайта</h2>
+						<p>Чтобы сайт работал продуктивно и его посещала целевая аудитория, необходимо полное соответствие рекомендациям поисковика. Внутренняя оптимизация сайта ориентирована на корректировку текстов, кода, структуры, совершенствование функционала, продвигаемого сайта. Такая работа проделывается перед тем, как продвигать сайт на лидерские позиции.</p>
+						<h2>Как происходит SEO оптимизация сайтов</h2>
+						<p>Опытные специалисты Mobileindex делают все для того, чтобы сайт стал привлекательным для клиентов. Мы наполняем ресурс релевантным, полезным, интересным контентом. После этого достигаются все необходимые условия для <strong>продвижения сайтов в Яндекс</strong>, Google и др.</p>
+						<p>Большинство компаний, обратившись к специалистам по <b>SEO-оптимизации</b> увеличивают прибыльность, в некоторых сферах, даже до 800%.</p>
+						<div class="blockqute-green">
+ 							<blockquote>
+ 								<p>Специалисты Mobileindex соберут все ключевые слова и продвинут только те запросы, которые принесут максимальную выгоду</p>
+ 							</blockquote>
+ 						</div>
+						<h2>Результаты поисковой оптимизации сайта</h2>
+						<ul>
+							<li>Моментальный рост позиций сайта по большому количеству запросов</li>
+							<li>Привлекается заинтересованная целевая аудитория. Сайт набирает популярность, что приведет к ежемесячному росту посещаемости.</li>
+							<li>Повысится уровень узнаваемости и лояльности к бренду у потенциальных потребителей.</li>
+						</ul>
+						<p><strong>Заказав SEO-продвижение сайтов</strong> у нас, цена которого вас весьма порадует, вы гарантированно увидите результат уже в первые месяцы!</p>
+<!--#include virtual="/social-share.html" -->
+				</article>
+			</div>
+		</div>
+	</div>
+
+<!--#include virtual="/rubrikator-prodvizhenie-saitov.shtml" -->
+<!--#include virtual="/rubrikator-top-razdeli.html" -->
+<!--#include virtual="/oformlenie-zayavki.html" -->
+
+	<!--#include virtual="/modal.html" --> 
+	<!--#include virtual="/footer.html" --> 
+<!--#include virtual="/metrica.html" --> 
+<!--#include virtual="/script-bottom.html" -->
+	
+</body>
+</html>

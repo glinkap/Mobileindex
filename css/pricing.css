@@ -1,0 +1,68 @@
+.pricingtable .zakazbtn { padding: 15px; display: block; font-size: 1em; background-color: #333333; color: #fff; text-transform: uppercase; text-decoration: none; margin-left: auto; margin-right: auto; text-align: center; }
+@media only screen and (max-width: 768px) and (min-width: 480px) { .pricingtable .zakazbtn { max-width: 400px; } }
+.pricingtable .zakazbtn:hover { -webkit-transition: all 0s; transition: all 0s; }
+.pricingtable .zakazbtn { -webkit-transition: all 0.4s; transition: all 0.4s; }
+
+.pricingtable .colorblock > p:after, .pricingtable .colorblock > span:nth-of-type(2):after, .pricingtable .col1 .blokkursiv:before, .pricingtable .col2 .blokkursiv:before, .pricingtable .col3 .blokkursiv:before, .pricingtable .col4 .blokkursiv:before, .pricingtable .col1 .blokkursiv:after, .pricingtable .col2 .blokkursiv:after, .pricingtable .col3 .blokkursiv:after, .pricingtable .col4 .blokkursiv:after { border-bottom: 3px solid #fff; width: 100%; position: relative; top: -2px; content: " "; display: block; margin-left: auto; margin-right: auto; max-width: 150px; }
+
+.pricingtable .colorblock { padding: 20px; display: block; background-color: #333333; }
+.pricingtable .colorblock > span, .pricingtable .colorblock p { color: #fff; }
+.pricingtable .colorblock > p span:nth-child(1) { font: 1.56em/0.8em latolight_italic; text-transform: uppercase; }
+.pricingtable .colorblock > p span:nth-child(2) { font: 1.56em/0.8em latoblack; text-transform: uppercase; }
+
+.pricingtable li:before { content: ''; display: inline-block; height: 23px; width: 30px; background-size: contain; background-repeat: no-repeat; margin-left: -31px; position: relative; left: -8px; top: 14px; }
+
+.pricingtable { margin-bottom: 80px; margin-top: 40px; }
+.pricingtable h2, .pricingtable h4, .pricingtable h5 { text-align: center; }
+.pricingtable h2 { margin-bottom: 40px; margin-top: 40px; }
+@media only screen and (max-width: 1190px) and (min-width: 992px) { .pricingtable .calc a { font-size: 0.8em; }
+  .pricingtable .calc a span { max-width: 173px !important; } }
+@media only screen and (max-width: 991px) and (min-width: 0px) { .pricingtable .calc { display: block; border: 1px solid #333333; max-width: 400px; margin-left: auto; margin-right: auto; padding: 10px 0; padding-left: 12px; margin-top: 20px; margin-bottom: 20px; } }
+.pricingtable .calc a { outline: none; color: #333333; }
+.pricingtable .calc a:visited { color: #333333; }
+.pricingtable .calc a:hover { color: #333333; }
+.pricingtable .calc a:active { color: #333333; }
+.pricingtable .calc a:focus { color: #333333; }
+.pricingtable .calc a { text-decoration: none; display: block; }
+.pricingtable .calc a svg { display: inline-block; position: relative; vertical-align: middle; margin-right: 10px; width: 28px; height: 44px; }
+.pricingtable .calc a span { display: inline-block; max-width: 203px; text-decoration: underline; font-weight: 900; vertical-align: middle; text-align: left; }
+.pricingtable .col1 .zakazbtn { background-color: #27AE60; }
+.pricingtable .col1 .zakazbtn:hover { background-color: #4fd688; }
+.pricingtable .col2 .zakazbtn { background-color: #6E72B6; }
+.pricingtable .col2 .zakazbtn:hover { background-color: #969ade; }
+.pricingtable .col3 .zakazbtn { background-color: #E85163; }
+.pricingtable .col3 .zakazbtn:hover { background-color: #ff798b; }
+.pricingtable .colorblock { text-align: center; padding-bottom: 15px; }
+.pricingtable .colorblock p { margin-bottom: 15px; }
+.pricingtable .colorblock > span:nth-of-type(1) { font: 1.6em/1em latoblack; display: block; }
+.pricingtable .colorblock > span:nth-of-type(2) { font-size: 0.875em; line-height: 1em; display: block; margin-bottom: 20px; }
+.pricingtable .colorblock > span:nth-of-type(2):after { max-width: 80px; top: 10px; }
+.pricingtable .colorblock > span:nth-of-type(3) { font: 1.2em/0.8em latoblack; display: block; }
+.pricingtable .col1 .colorblock { background-color: #27AE60; }
+.pricingtable .col2 .colorblock { background-color: #6E72B6; }
+.pricingtable .col3 .colorblock { background-color: #E85163; }
+.pricingtable .col4 .colorblock { background-color: #EBEBEB; }
+.pricingtable .col4 .colorblock > p span { color: #666666; }
+.pricingtable .col4 .colorblock > p:after { border-color: #666666; }
+.pricingtable ul { list-style-type: none; font-size: 1em; line-height: 1.2em; margin-bottom: 30px; margin-top: -10px; }
+.pricingtable li:before { margin-bottom: 10px; }
+.pricingtable .col1 li:before { background-image: url("../images/galkagreen.svg"); }
+.pricingtable .col2 li:before { background-image: url("../images/galkaviolet.svg"); }
+.pricingtable .col3 li:before { background-image: url("../images/galkamalina.svg"); }
+.pricingtable .col4 li:before { background-image: url("../images/galkagray.svg"); }
+.pricingtable .col4 p:first-of-type { margin-top: 1.414em; }
+.pricingtable .col1 .blokkursiv:before, .pricingtable .col2 .blokkursiv:before, .pricingtable .col3 .blokkursiv:before, .pricingtable .col4 .blokkursiv:before { border-bottom: 3px solid #27AE60; max-width: 100%; }
+.pricingtable .col1 .blokkursiv:after, .pricingtable .col2 .blokkursiv:after, .pricingtable .col3 .blokkursiv:after, .pricingtable .col4 .blokkursiv:after { border-bottom: 3px solid #27AE60; top: 26px; max-width: 100%; }
+.pricingtable .col1 .blokkursiv:before { border-bottom: 3px solid #27AE60; }
+.pricingtable .col1 .blokkursiv:after { border-bottom: 3px solid #27AE60; }
+.pricingtable .col2 .blokkursiv:before { border-bottom: 3px solid #6E72B6; }
+.pricingtable .col2 .blokkursiv:after { border-bottom: 3px solid #6E72B6; }
+.pricingtable .col3 .blokkursiv:before { border-bottom: 3px solid #E85163; }
+.pricingtable .col3 .blokkursiv:after { border-bottom: 3px solid #E85163; }
+.pricingtable .col4 .blokkursiv:before { border-bottom: 3px solid #666666; }
+.pricingtable .col4 .blokkursiv:after { border-bottom: 3px solid #666666; }
+.pricingtable .blokkursiv { margin-top: 2.6em; margin-bottom: 3.8em; }
+.pricingtable .blokkursiv em { color: #666666; font-family: latoitalic; }
+.pricingtable .podrobnee { text-decoration: underline; text-align: center; color: #666666; font-family: latobold; display: block; padding: 20px; }
+@media only screen and (max-width: 991px) and (min-width: 0px) { .pricingtable .podrobnee { text-align: center; border: 1px solid #333333; padding-top: 10px; padding-bottom: 10px; display: block; max-width: 400px; margin-left: auto; margin-right: auto; margin-top: 20px; margin-bottom: 12px; } }
+/*# sourceMappingURL=pricing.css.map */

@@ -1,0 +1,63 @@
+<!DOCTYPE html>
+<html lang="ru">
+<head>
+	<meta http-equiv="Content-type" content="text/html; charset=UTF-8"/>	
+	<meta http-equiv="X-UA-Compatible" content="IE=edge">
+	<meta name="viewport" content="width=device-width, initial-scale=1">
+	<title>Стоимость продвижения и раскрутки интернет магазина от Mobileindex</title>
+	<meta name="description" content="Стоимость продвижения интернет магазина в Yandex и Google. Успешные кейсы на сайте Mobileindex. Звоните по  ☎8-(977)-267-64-84; ► start@mobileindex.ru">
+	<meta name="keywords" content=" Стоимость раскрутки интернет магазина, СЕО, SEO, Продвижение сайта, Раскрутка сайта, продвижение в топ">
+<!--#include virtual="/script-top.html" -->
+
+</head>
+<body>
+	<!--#include virtual="/images/sprite.svg" -->
+	<!--#include virtual="/menu.html" -->
+	<!--#include virtual="/mini-header.shtml" -->
+	<style> .mi-status {position: fixed;color: #9e0298;font-size: 16px;top: 200px;z-index: 99999;font-size: 26px;}</style><div class="mi-status"></div>
+
+	<div class="container-fluid articlecover">
+		<div class="row">
+			<div class="container">
+				<h1><span>Стоимость продвижения интернет-магазина</span></h1>
+			</div>
+		</div>	
+	</div>
+
+	<!--#include virtual="../rubrikator.html" -->
+
+	<div class="container-fluid content">
+		<div class="row">
+			<div class="container">
+			<!--#include virtual="/tarifi.shtml" -->
+				<article class="justify_if_hyphens hyphens">
+					
+						<h2>Из чего складывается цена на продвижение интернет-магазина</h2>
+						<img class="imgright" src="../images/stoimost-raskrutki-internet-magazina-mobileindex.ru.png" alt="Стоимость раскрутки интернет-магазина mobileindex.ru">
+						<p><strong>Стоимость раскрутки Вашего интернет-магазина</strong> складывается из бъема и состава работ</p>
+						<p>Выбор способа продвижения, по категориям , по карточке товара, продвижение главной страницы магазина.</p>
+						<p>Размера семантического ядра магазина. Работать по 30 запросам это одна стоимость по 1000 – другая и по 30000 запросам – третья.</p>
+						<p>В высоко-конкурентных тематиках стоимость может отличаться от низко-конкурентных т.к. затраты на СЕО оптимизацию и написание статей несопоставимы.  </p>
+						<p>Стоимость продвижения так же зависит от количества и качества закупаемых внешних ссылок, если , конечно, такой способ продвижения выбран.</p>
+
+						<p>Значительно на стоимость влияет CMS, на которой создан Ваш интернет-магазин. В случае если Ваш интернет-магазин самописный это сильно затруднит внесение изменений  по продвижению и отразится на стоимости, так же может быть выбран вариант внесения всех рекомендация по продвижению со стороны разработчика сайта, тогда с нашей стороны этот фактор будет учтен в стоимости в сторону понижения стоимости. </p>
+						<p>Так же стоимость продвижения можно снизить если Вы возьмете на себя написание семантических текстов, с нашей стороны будет только руководство этим процессом.</p>
+						<p>Более подробно узнать стоимость продвижения можно, связавшись с нами по телефону или заполнить форму ниже. А так же можно воспользоваться калькулятором стоимости продвижения.</p>
+					<!--#include virtual="/social-share.html" -->
+				</article>
+			</div>
+		</div>
+	</div>
+
+<!--#include virtual="/rubrikator.html" -->
+<!--#include virtual="/rubrikator-top-razdeli.html" -->
+<!--#include virtual="/oformlenie-zayavki.html" -->
+
+	<!--#include virtual="/modal.html" --> 
+	<!--#include virtual="/footer.html" --> 
+<!--#include virtual="/metrica.html" --> 
+<link rel="stylesheet" href="../css/pricing.css?1">
+<!--#include virtual="/script-bottom.html" -->
+	
+</body>
+</html>

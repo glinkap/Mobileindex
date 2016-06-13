@@ -1,0 +1,10 @@
+User-agent: *
+
+
+User-agent: Googlebot
+
+
+User-agent: Yandex
+
+Host: mobileindex.ru
+Sitemap: http://mobileindex.ru/sitemap.xml

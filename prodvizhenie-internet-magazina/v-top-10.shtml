@@ -1,0 +1,53 @@
+<!DOCTYPE html>
+<html lang="ru">
+<head>
+	<meta http-equiv="Content-type" content="text/html; charset=UTF-8"/>
+	<meta http-equiv="X-UA-Compatible" content="IE=edge">
+	<meta name="viewport" content="width=device-width, initial-scale=1">
+	<title>Продвижение интернет магазина в топ 10 от Mobileindex</title>
+	<meta name="description" content="Продвижение интернет магазинов в топ 10 в Yandex и Google по договорным ценам. Успешные кейсы на сайте Mobileindex. Звоните по  ☎8-(977)-267-64-84; ► start@mobileindex.ru">
+	<meta name="keywords" content="Продвижение интернет магазина в топ 10, СЕО, SEO, Продвижение интернет-магазина, Раскрутка интернет-магазина, продвижение в топ">
+<!--#include virtual="/script-top.html" -->
+</head>
+<body>
+	<!--#include virtual="/images/sprite.svg" -->
+	<!--#include virtual="/menu.html" -->
+	<!--#include virtual="/mini-header.shtml" -->
+	<style> .mi-status {position: fixed;color: #9e0298;font-size: 16px;top: 200px;z-index: 99999;font-size: 26px;}</style><div class="mi-status"></div>
+
+	<div class="container-fluid articlecover">
+		<div class="row">
+			<div class="container">
+				<h1><span>Продвижение интернет магазинов в топ 10</span></h1>
+			</div>
+		</div>	
+	</div>
+
+	<!--#include virtual="/rubrikator.html" -->
+
+	<div class="container-fluid content">
+		<div class="row">
+			<div class="container">
+				<article class="justify_if_hyphens hyphens">
+					<div class="blockquote">
+						<p><span>Продвижение интернет магазинов в топ 10</span> — это продвижение в 10-ку лидеров, лучших из лучших, компаний, имеющих огромный трафик из поисковых систем.</p>
+					</div>
+					<img class="imgright" src="../images/prodvizhenie-internet-magazinov-v-top-10-mobileindex.ru.png" alt="Продвижение интернет магазинов в топ 10 от Mobileindex.ru">
+					<p>Каждый владелец интернет-магазина стремится повысить свои продажи за счет попадания в топ-10 Яндекс или Google. Сложность продвижения может быть разной в разных тематиках и при разных уровнях конкуренции. Первое что нужно сделать, это опредилиться на какую поисковую систему будет устремлено продвижение интернет-магазина или без конкретизации. Яндекс поисковик — наиболее заточенный под русскоязычный интернет.  Google — может отличиться в выдаче от Яндекса. В любом случае этот выбор нужно делать исходя из тематики Вашего магазина. Далее нужно определить Ваши коммерческие запросы, это можно сделать при помощи сервиса Яндекс.Wordstat.</p>
+					<p>Специалисты компании Mobileindex проведут анализ конкурентов, найдут все слабые места в семантике и коммерческих факторах конкурентов и сделают их Вашими сильными сторонами. Составят семантическое ядро, которое будет постоянно модифироваться в соответствием со статистикой запросов Яндекса, подготовят качественный, и что самое важное, уникальный контент с красивыми картинками. Далее будет проведена глубокая оптимизация Вашего интернет-магазина после чего мы снимем статистику с Яндекс.Метрики. Это будет первым шагом на пути к топ-10</p>
+					<!--#include virtual="/social-share.html" -->
+				</article>
+			</div>
+		</div>
+	</div>
+
+<!--#include virtual="/rubrikator.html" -->
+<!--#include virtual="/rubrikator-top-razdeli.html" -->
+<!--#include virtual="/oformlenie-zayavki.html" -->
+	<!--#include virtual="/modal.html" --> 
+	<!--#include virtual="/footer.html" --> 
+<!--#include virtual="/metrica.html" --> 
+<!--#include virtual="/script-bottom.html" -->
+<!--#include virtual="/script-bottom.html" -->
+</body>
+</html>
