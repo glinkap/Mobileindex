@@ -1,0 +1,533 @@
+<!DOCTYPE html>
+<html lang="ru">
+<head>
+    <meta http-equiv="Content-Type" content="text/html"; charset="utf-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+    <title>Продвижение сайта, интернет-магазина в мобильном поиске</title>
+	<meta name="description" content="SEO Продвижение сайта, интернет-магазина, Выход в топ за месяц, Успешные кейсы на сайте Mobileindex">
+	<meta name="keywords" content="SEO продвижение сайта в топ яндекс,SEO продвижение интернет магазина в топ яндекс, Продвижение мобильного сайта, Продвижение мобильной версии">
+	<meta name="generator" content="www.glinkapetr.ru">
+
+	<link rel="apple-touch-icon" sizes="57x57" href="favicons/apple-icon-57x57.png">
+	<link rel="apple-touch-icon" sizes="60x60" href="favicons/apple-icon-60x60.png">
+	<link rel="apple-touch-icon" sizes="72x72" href="favicons/apple-icon-72x72.png">
+	<link rel="apple-touch-icon" sizes="76x76" href="favicons/apple-icon-76x76.png">
+	<link rel="apple-touch-icon" sizes="114x114" href="favicons/apple-icon-114x114.png">
+	<link rel="apple-touch-icon" sizes="120x120" href="favicons/apple-icon-120x120.png">
+	<link rel="apple-touch-icon" sizes="144x144" href="favicons/apple-icon-144x144.png">
+	<link rel="apple-touch-icon" sizes="152x152" href="favicons/apple-icon-152x152.png">
+	<link rel="apple-touch-icon" sizes="180x180" href="favicons/apple-icon-180x180.png">
+	<link rel="icon" type="image/png" sizes="16x16" href="favicons/favicon-16x16.png?1">
+	<link rel="icon" type="image/png" sizes="192x192"  href="favicons/android-icon-192x192.png?1">
+	<link rel="icon" type="image/png" sizes="32x32" href="favicons/favicon-32x32.png?1">
+	<link rel="icon" type="image/png" sizes="96x96" href="favicons/favicon-96x96.png?1">	
+	<link rel="manifest" href="favicons/manifest.json">
+	<meta name="msapplication-TileColor" content="#ffffff">
+	<meta name="msapplication-TileImage" content="favicons/ms-icon-144x144.png">
+	<meta name="theme-color" content="#ffffff">
+
+
+    <link rel="stylesheet" href="css/grid.only.bootstrap.min.css">
+	<link type="text/css" rel="stylesheet" href="fonts/lato.css"/>
+   <!--  <link rel="stylesheet" type="text/css" href="css/footer.css"> -->
+    
+    <link type="text/css" rel="stylesheet" href="css/mistyle.css"/>
+    <link type="text/css" rel="stylesheet" href="css/media.css"/>
+    <link type="text/css" rel="stylesheet" href="css/hamburger.css"/>
+    <link rel="stylesheet" href="css/header.css?5">
+    <link rel="stylesheet" href="css/rubrikator.css?2">
+</head>
+<body>
+    <style>
+        .mi-status {
+            position: fixed;
+            color: #9e0298;
+            font-size: 16px;
+            top: 200px;
+            z-index: 99999;
+            font-size: 26px;
+        }
+    </style>
+    <div class="mi-status"></div>
+<!--#include virtual="images/sprite.svg" -->
+<!-- МЕНЮ -->
+<!--#include virtual="menu.html" -->
+<!-- Шапка -->
+<!--#include virtual="head.shtml" -->
+	
+	<!-- SECTION 2 -->
+<section class="container ">
+	<div class="row">
+		<div class="sec2-main">
+		<div>
+			<h2>Вы уверены что в мобильном поиске Вы на тех же позициях что и в десктоп версии сайта?</h2>
+		</div>
+		<div class="mi-sec2-padd ">
+			<div class="mi-sec2-cont1 hidden-sm hidden-xs">
+			<img class="mi-sec2-img1" src="images/poisk-pozicii-desktop-mobileindex.ru.png" alt=""></div>
+			<div class="mi-sec2-cont2 hidden-sm hidden-xs">
+			<img class="mi-sec2-img2" src="images/poisk-pozicii-mobilnii-mobileindex.ru.png" alt=""></div>
+			<div class="mi-sec2-cont3">
+			
+			<div class="hidden-lg hidden-md mi-sec2-cont5"><img src="images/Mobile-search-pozicii-infografika-mobileindex.ru.png" alt="" class="mi-sec2-img5"></div>
+			
+				<div class="mi-sec2-buttons1">
+					<ul>
+						<li><a data-target="#modal-tarif" class="open_modal" href="javascript:void(0)">продвинуть сайт в топ 1</a></li>
+						<li><a data-target="#modal-tarif" class="open_modal" href="javascript:void(0)">продвинуть сайт в топ 3</a></li>
+						<li><a data-target="#modal-tarif" class="open_modal" href="javascript:void(0)">продвинуть сайт в топ 5</a></li>
+					</ul>
+				</div>
+				<div class="mi-sec2-arrow hidden-sm hidden-xs">
+					<img class="mi-sec2-img4" src="images/arrow-up-mobileindex.ru.png" alt="">
+				</div>
+			</div>
+			</div>
+			<div>
+				<h4>Количество пользователей мобильных устройств в разных областях уже достигает усредненно 30%
+к середине 2017 года прогнозируется рост до 40% трафика</h4>
+			</div>
+		</div>
+	</div>
+</section>
+<!-- SECTION 2 -->
+	
+<!--#include virtual="calc.html" -->
+
+
+<!-- SECTION 3 Критерии влияния -->
+<section class="container mi-section ">
+	<div class="row">
+		<div class="mi-sec3-crit ">
+			<div>
+				<h2>Критерии влияния показа вашего сайта в топ мобильного поиска</h2>
+			</div>
+			<div class="mi-sec3-padd clearfix justify_if_hyphens hyphens">
+				<div class="mi-sec3-cont col-sm-6 col-md-6 col-lg-3 ">
+					<img src="images/Marker-mobileindex.ru.png" alt="">
+					<div class="mi-sec3-subheader ">
+						<h3>Наличие мобильной версии сайта</h3>
+					</div>
+					<p><strong>Мобильная версия</strong> сайта может разрабатываться в параллель сущестующему сайту или как новый проект адаптивного сайта</p>
+				</div>
+				<div class="mi-sec3-cont col-sm-6 col-md-6 col-lg-3 ">
+					<img src="images/Marker-mobileindex.ru.png" alt="">
+					<div class="mi-sec3-subheader">
+						<h3>Поведенчиские факторы UX\UI</h3>
+					</div>
+					<p>То как пользователь использует элементы интерфейса и на сколько удобно ему пользоваться Вашим сайтом. Удобство использования - составляющая конверсии </p>
+				</div>
+				<div class="mi-sec3-cont col-sm-6 col-md-6 col-lg-3 ">
+					<img src="images/Marker-mobileindex.ru.png" alt="">
+					<div class="mi-sec3-subheader">
+						<h3>Правильно продуманная семантика</h3>
+					</div>
+					<p>Как вы составили свое <strong>семантическое ядро</strong> и какой путь <strong>продвижения</strong> Вы выбрали - <strong>трафиковое продвижение, таргетированное трафиковое продвижение, продвижение конкретных запросов</strong></p>
+				</div>
+				<div class="mi-sec3-cont col-sm-6 col-md-6 col-lg-3 ">
+					<img src="images/Marker-mobileindex.ru.png" alt="">
+					<div class="mi-sec3-subheader">
+						<h3>Соответствие вашего сайта представлению Google Mobile Friendly</h3>
+					</div>
+					<p>У каждой поисковой системы есть свой взгляд на то, какому списку критериев должен соответствовать <strong>мобильный сайт</strong></p>
+				</div>
+			</div>
+		</div>
+	</div>
+</section>
+<!-- SECTION 3 Критерии влияния -->
+
+<!-- SECTION 4 Параллакс -->
+
+
+<section class="container-fluid paralsem ">
+	<div class="row">
+	<h2 class="container ">Успешный SEM Маркетинг в высококонкурентной сфере - это наступление по всем фронтам</h2>
+	<div class="mi-sec4-padd">	
+		<div class="parallax-2">
+			<div class="parallax-3">
+				<div class="parallax-4"></div>
+			</div>
+		</div>
+		</div>
+	</div>
+</section> <!-- SECTION 4 Параллакс -->
+
+<!-- SECTION 5 Продвинутые -->
+<section class="container-fluid prodvinutie">
+	<div class="row">
+		<h2>Сайты, которые мы продвинули в ТОП Google, Yandex</h2>
+		<div class="mi-sec5-padd clearfix">
+			<div id="mi-sec5-changer-left" class="mi-sec5-left col-md-6">
+			<div class="left-block col-lg-10 col-lg-offset-2">
+			<img src="images/prodvijenie-v-google-mobileindex.ru.png" alt="">
+			
+				<div class="mi-sec5-btn-container">					
+					<div  class="googlesearch-btn clearfix">						
+						<a class="left" rel="nofollow" href="https://www.google.ru/search?q=кожевеный+завод">кожевенный завод</a>
+						<a rel="nofollow" class="right" href="https://www.google.ru/search?q=кожевеный+завод">1 место</a>						
+					</div>
+					<div class="googlesearch-btn clearfix">						
+						<a rel="nofollow" class="left" href="https://www.google.ru/search?q=обувная+кожа+купить+в+москве">обувная кожа купить в москве</a>
+						<a rel="nofollow" class="right" href="https://www.google.ru/search?q=обувная+кожа+купить+в+москве">3 место</a>						
+					</div>
+					<div class="googlesearch-btn clearfix">						
+						<a rel="nofollow" class="left" href="https://www.google.ru/search?q=тисненая+кожа">тисненая кожа</a>
+						<a rel="nofollow" class="right" href="https://www.google.ru/search?q=тисненая+кожа">5 место</a>						
+					</div>
+					<div class="googlesearch-btn clearfix">						
+						<a rel="nofollow" class="left" href="https://www.google.ru/search?q=спилок+купить+в+москве">спилок купить в москве</a>
+						<a rel="nofollow" class="right" href="https://www.google.ru/search?q=спилок+купить+в+москве">2 место</a>						
+					</div>
+				</div>				
+				</div>
+			</div>
+			<div  id="mi-sec5-changer-right" class="right-block mi-sec5-right col-md-6 ">
+				<div class=" col-lg-10">
+<h2>Раскрутка сайта в Google</h2>
+<p class="justify_if_hyphens hyphens">	Решили <strong>продвинуть свой сайт или интернет-магазин</strong> в самой крупной мировой поисковой системе Google? Продвигая сайт в Гугле, Вы параллельно <strong> продвигаете его и в Яндексе.</strong> На просторах Рунета, Google стремительно нагоняет гиганта - Яндекс.
+Все больше пользователей сети используют поиск Google. А это значит, - нужно учитывать этот факт при <strong>продвижении своего сайта.</strong>
+	Большество пользователей браузера chrome используют поиск Gooogle, установленный по умолчанию, не озадачивая себя, переключить в настройках поиск на другой. <strong>Продвижение в Google</strong> имеет ряд особенностей. Во-первых, основная часть пользователей это молодеж и активная часть населения.
+Во-вторых, поисковик Google учитывает вашу &laquoмобильность&raquo - есть ли у Вас <mark>мобильная версия сайта</mark> или Ваш сайт адаптирован под разные разрешения экрана.</p>
+					<div id="mi-sec5-arrow-google">	
+					</div>
+				</div>
+			</div>
+		</div>
+	</div>
+</section>
+
+<!-- /SECTION 5 Продвинутые Google -->
+<!-- SECTION 6 Продвинутые Yandex-->
+<section class="container-fluid">
+	<div class="row">
+		<div class="mi-sec5-padd2 clearfix">
+			<div  id="mi-sec5-changer-right2" class="right-block mi-sec6-left col-md-6 ">
+				<div class="col-lg-10 col-lg-offset-2">
+<h2>Раскрутка сайта в Yandex</h2>
+<p class="justify_if_hyphens hyphens">Вы выбрали Яндекс как приоритетную поисковую систему для продвижения. <strong>Раскрутка сайта или интернет-магазина в Яндексе</strong> принесет плоды в виде <strong>повышения конверсии</strong> и прибыли Вашей компании. Разница в продвижении между Yandex и Google значительна. В Яндексе постоянно совершенствуются алгоритмы и добавляются новые фильтры. Казалось бы, в гугле Вы в топе по определенным запросам, а в Яндексе вы находитесь чуть ли не в конце страницы. Правильный выбор коммерчиских факторов может координально повысить позиции в одной сфере, и никак не повлиять на позиции в другой. <strong>Раскрутка в Яндексе</strong> намного более кропотливое дело, чем кажется на первый взгляд.</p>
+					<div id="mi-sec6-arrow-yandex">	
+					</div>
+				</div>
+			</div>
+			<div id="mi-sec5-changer-left2" class="mi-sec5-left col-md-6">
+			<div class="left-block col-lg-10 ">
+			<img src="images/prodvijenie-v-yandexe-mobileindex.png" alt="">
+			
+				<div class="mi-sec5-btn-container">					
+					<div  class="yandexsearch-btn clearfix">						
+						<a class="left" rel="nofollow" href="https://yandex.ru/search/?text=кожевенный%20завод&lr=213">кожевенный завод</a>
+						<a rel="nofollow" class="right" href="https://yandex.ru/search/?text=кожевенный%20завод&lr=213">1 место</a>						
+					</div>
+					<div class="yandexsearch-btn clearfix">						
+						<a rel="nofollow" class="left" href="https://yandex.ru/search/?text=кожа%20из%20спилка&lr=213">кожа из спилка</a>
+						<a rel="nofollow" class="right" href="https://yandex.ru/search/?text=кожа%20из%20спилка&lr=213">2 место</a>						
+					</div>
+					<div class="yandexsearch-btn clearfix">						
+						<a rel="nofollow" class="left" href="https://yandex.ru/search/?text=нубук%20купить&lr=213">нубук купить</a>
+						<a rel="nofollow" class="right" href="https://yandex.ru/search/?text=нубук%20купить&lr=213">5 место</a>						
+					</div>
+					<div class="yandexsearch-btn clearfix">						
+						<a rel="nofollow" class="left" href="https://www.google.ru/search?q=спилок+купить+в+москве">кожа подкладочная купить</a>
+						<a rel="nofollow" class="right" href="https://www.google.ru/search?q=спилок+купить+в+москве">3 место</a>						
+					</div>
+				</div>				
+				</div>
+			</div>
+		
+		</div>
+	</div>
+</section>
+<!-- /SECTION 6 Продвинутые Yandex-->
+
+
+<section class="container-fluid sec7">
+	<div class="row">
+		<h2>График роста эффективности продвижения</h2>
+		<div class="sec7-padd clearfix">
+			<div class="sec7-graphic-container">
+             <svg  version="1.1" id="Layer_1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px" height="450" width="960" viewBox="0 0 1199.5 567.2" enable-background="new 0 0 1199.5 567.2" xml:space="preserve">
+
+              <!--KPI-->
+              <defs>
+
+                <g  id="sec7kpi">
+                 <g  id="sec7kpi-c">
+                  <ellipse fill="#372356" stroke="#27AE60" stroke-width="16" stroke-miterlimit="10" cx="0" cy="0" rx="71" ry="71" />
+                  <text id="sec7text" x="-33" y="15" fill="#27AE60" font-family="LatoRegular" font-size="38.8363">KPI</text>	
+              </g>
+          </g>
+          <g id="sec7prodaji">
+             <polygon fill="#CA0065" points="262.8,389.5 208,141.5 242.6,141.5 162.8,3.3 83,141.5 117.6,141.5 62.8,389.5" />
+             <path fill="#372356" stroke="#27AE60" stroke-width="16" stroke-miterlimit="10" d="M282.4,345.7H38.1
+             c-15.9,0-28.9-12.9-28.9-28.9V212.5c0-15.9,12.9-28.9,28.9-28.9h244.3c15.9,0,28.9,12.9,28.9,28.9v104.3
+             C311.3,332.8,298.3,345.7,282.4,345.7z" />
+             <text transform="matrix(1 0 0 1 72.8185 239.5)">
+              <tspan x="0" y="0" fill="#27AE60" font-family="LatoRegular" font-size="29.3877">Рост продаж</tspan>
+          </text>
+          <text transform="matrix(1 0 0 1 66.6753 309.0005)" fill="#27AE60" font-family="LatoBold" font-size="73.17">600%</text>
+
+      </g>
+      <g id="pervRezult">
+
+         <path fill="#372356" stroke="#27AE60" stroke-width="13.7326" stroke-miterlimit="10" d="M230.6,118.9H35.9
+         c-13.7,0-24.8-11.1-24.8-24.8V37.6c0-13.7,11.1-24.8,24.8-24.8h194.7c13.7,0,24.8,11.1,24.8,24.8v56.6
+         C255.4,107.9,244.3,118.9,230.6,118.9z"/>
+         <g>
+          <text id="perv30d" transform="matrix(1 0 0 1 64.4033 96.6784)" fill="#27AE60" font-family="latobold" font-size="37.4086">30 дней</text>
+          <text transform="matrix(1 0 0 1 92.4224 49.8732)" fill="#27AE60" font-family="'Lato-Regular'" font-size="24.857">Первые</text>
+          <g>
+           <text transform="matrix(1 0 0 1 110.2754 74.0964)" fill="#27AE60" font-family="'Lato-Regular'" font-size="16.6547">через</text>
+       </g>
+       <text transform="matrix(1 0 0 1 128.2954 61.9709)" fill="#27AE60" font-family="'Lato-Regular'" font-size="16.6547">результаты</text>
+   </g>
+</g>
+</defs>										
+<line fill="none" stroke="#7E64AB" stroke-width="4" stroke-miterlimit="10" x1="36.5" y1="23.7" x2="36.5" y2="486.7"/>
+<text id="txt30dnei" transform="matrix(1 0 0 1 230 559.9538)" fill="#FFFFFF" font-family="LatoBold" font-size="49.4489">30 дней</text>
+<text id="txt3mes" x="922" y="559" fill="#C91C67" font-family="LatoBold" font-size="49.4489">3 месяца</text>
+<g>
+ <text transform="matrix(0 -1 1 0 21.5308 394.3771)" fill="#937AB8" font-family="LatoRegular" font-size="21.0848">Достижение поставленных целей</text>
+</g>
+<!--Горизонтальные-->
+<g>
+ <line class="sec7-horizontal-lines" fill="none" stroke="#7E64AB" stroke-width="4" stroke-miterlimit="10" x1="36.5" y1="486.7" x2="1179.5" y2="486.7"/>
+
+ <line class="sec7-horizontal-lines" opacity="0.9" fill="none" stroke="#7E64AB" stroke-miterlimit="10" x1="36.5" y1="208.2" x2="1178.5" y2="208.2"/>
+ <line class="sec7-horizontal-lines" opacity="0.8" fill="none" stroke="#7E64AB" stroke-miterlimit="10" x1="36.5" y1="165.2" x2="1178.5" y2="165.2"/>
+ <line class="sec7-horizontal-lines" opacity="0.7" fill="none" stroke="#7E64AB" stroke-miterlimit="10" x1="36.5" y1="136.2" x2="1178.5" y2="136.2"/>
+ <line class="sec7-horizontal-lines" opacity="0.6" fill="none" stroke="#7E64AB" stroke-miterlimit="10" x1="36.5" y1="113.2" x2="1178.5" y2="113.2"/>
+ <line class="sec7-horizontal-lines" opacity="0.5" fill="none" stroke="#7E64AB" stroke-miterlimit="10" x1="36.5" y1="93.2" x2="1178.5" y2="93.2"/>
+ <line class="sec7-horizontal-lines" opacity="0.4" fill="none" stroke="#7E64AB" stroke-miterlimit="10" x1="36.5" y1="77.2" x2="1178.5" y2="77.2"/>
+ <line class="sec7-horizontal-lines" opacity="0.3" fill="none" stroke="#7E64AB" stroke-miterlimit="10" x1="36.5" y1="64.2" x2="1178.5" y2="64.2"/>
+ <line class="sec7-horizontal-lines" opacity="0.2" fill="none" stroke="#7E64AB" stroke-miterlimit="10" x1="36.5" y1="53.2" x2="1178.5" y2="53.2"/>
+ <line class="sec7-horizontal-lines" opacity="0.1" fill="none" stroke="#7E64AB" stroke-miterlimit="10" x1="36.5" y1="46.2" x2="1178.5" y2="46.2"/>
+ <line class="sec7-horizontal-lines" opacity="9.000000e-002" fill="none" stroke="#7E64AB" stroke-miterlimit="10" x1="36.5" y1="38.2" x2="1178.5" y2="38.2"/>
+ <line class="sec7-horizontal-lines" opacity="8.000000e-002" fill="none" stroke="#7E64AB" stroke-miterlimit="10" x1="36.5" y1="34.2" x2="1178.5" y2="34.2"/>
+ <line class="sec7-horizontal-lines" opacity="4.000000e-002" fill="none" stroke="#7E64AB" stroke-miterlimit="10" x1="36.5" y1="27.2" x2="1178.5" y2="27.2"/>
+ <line class="sec7-horizontal-lines" opacity="1.000000e-002" fill="none" stroke="#7E64AB" stroke-miterlimit="10" x1="36.5" y1="23.2" x2="1178.5" y2="23.2"/>
+ <line class="sec7-horizontal-lines" opacity="5.000000e-002" fill="none" stroke="#7E64AB" stroke-miterlimit="10" x1="36.5" y1="29.2" x2="1178.5" y2="29.2"/>
+ <line class="sec7-horizontal-lines" opacity="3.000000e-002" fill="none" stroke="#7E64AB" stroke-miterlimit="10" x1="36.5" y1="24.2" x2="1178.5" y2="24.2"/>
+ <line class="sec7-horizontal-lines" fill="none" stroke="#7E64AB" stroke-miterlimit="10" x1="36.5" y1="276.2" x2="1178.5" y2="276.2"/>
+ <line class="sec7-horizontal-lines" fill="none" stroke="#7E64AB" stroke-miterlimit="10" x1="36.5" y1="370.2" x2="1178.5" y2="370.2"/>
+
+</g>
+<line id="dnei30" fill="none" stroke="#7E64AB" stroke-width="4" stroke-linecap="round" stroke-linejoin="round" stroke-miterlimit="10" x1="241.5" y1="503.7" x2="241.5" y2="486.7"/>
+<line fill="none" stroke="#7E64AB" stroke-width="4" stroke-linecap="round" stroke-linejoin="round" stroke-miterlimit="10" x1="36.5" y1="503.7" x2="36.5" y2="486.7"/>
+<line id="3mes" fill="none" stroke="#7E64AB" stroke-width="4" stroke-linecap="round" stroke-linejoin="round" stroke-miterlimit="10" x1="0" y1="0" x2="0" y2="14"/>
+<g>
+ <text id="pervObrash" transform="matrix(1 0 0 1 0 536)"><tspan x="0" y="0" fill="#937AB8" font-family="LatoRegular" font-size="21.0848">Первичное</tspan><tspan x="0" y="25.3" fill="#937AB8" font-family="LatoRegular" font-size="21.0848">обращение</tspan></text>
+</g>
+<g id="sec7lines"></g>
+<g id="groupCircles"></g>
+<g id="gui"></g>
+
+
+<text id="kpiinfo" opacity="0" transform="matrix(0.8 0 0 0.8 220 420)"><tspan x="0" y="0" fill="#27AE60" font-family="Lato-Bold" font-size="28.1798">KPI</tspan><tspan x="45.1" y="0" fill="#FFFFFF" font-family="'MyriadPro-Regular'" font-size="28.1798">  </tspan><tspan x="57" y="0" fill="#FFFFFF" font-family="'Lato-Regular'" font-size="28.1798">— набор промежуточных целей,</tspan><tspan x="0" y="33.8" fill="#FFFFFF" font-family="'Lato-Regular'" font-size="28.1798">зафиксированных в договоре</tspan></text>
+</svg>
+<svg version="1.1" id="Layer_2" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px" height="180" width="960"  enable-background="new 0 0 960 180" xml:space="preserve">
+    <defs>
+      <animateTransform attributeType="XML"
+      xlink:href="#gauditanim"	 
+      attributeName="transform"
+      type="scale"
+      dur="500ms"
+      from="1"
+      to="1.3"
+      restart="whenNotActive"
+      begin="mouseover"
+      calcMode="spline"
+      values="1;1.3"	
+      keyTimes="0;1"
+      keySplines=".16,.59,.46,.98"
+      fill="freeze"					   	
+      id="c-hover"				   
+
+      />
+      <animateTransform attributeType="XML"
+      xlink:href="#gauditanim"	 
+      attributeName="transform"
+      type="scale"
+      dur="300ms"
+
+      to="1"
+      restart="whenNotActive"
+      begin="mouseout"
+
+      fill="freeze"					   	
+      id="c-out"				   
+
+      />
+  </defs>
+
+  <line transform="translate(500,0)" id="sec7-2line" fill="none" stroke="#27AE60" stroke-width="17" stroke-linecap="round" stroke-linejoin="round" stroke-dasharray="0,44" x1="-420" y1="90.5" x2="460" y2="90.5"/>
+
+
+  <g id="gaudit"  data-target="#modal1" class="open_modal pointer-events" >	
+   <g id="gauditanim">
+       <g >
+           <rect x="-155" y="-53.5" rx="31" width="310" height="134" fill="#372356" stroke="#27AE60" stroke-width="17.4053" stroke-miterlimit="10"/>	
+           <g transform="matrix(1 0 0 1 42 5)">
+              <text transform="matrix(1 0 0 1 -155 0)" fill="#27AE60" data-text="regular" font-family="'Lato-Regular'" font-size="38.769" pointer-events="none">Аудит сайта</text>
+              <text data-text="bold" transform="matrix(1 0 0 1 -155 37)" fill="#27AE60" font-family="'Lato-Bold'" font-size="35.3537" pointer-events="none">БЕСПЛАТНО</text>
+          </g>
+      </g>
+  </g>
+
+</g>
+</svg>
+</div>
+</div>
+</div>
+</section>
+
+<!-- /SECTION 7 График роста-->
+
+ <!--#include virtual="footer.html" --> 
+ <!--#include virtual="modal.html" --> 
+<!--#include virtual="metrica.html" --> 
+
+
+
+<!--<div style="height:500px;"></div>-->
+<link rel="stylesheet" href="css/modal.css?2">
+<script src="libs/jquery/jquery-2.1.4.js"></script>	
+<script src="js/SmoothScroll.js"></script>
+<script src="js/jquery.parallax-1.1.3.js"></script>	
+<script src="js/jquery.scrollTo-1.4.2-min.js"></script>	
+<script src="js/jquery.localScroll.min-1.4.0.js"></script>
+<script src="libs/FakeSmile-master/smil.check.js"></script>
+<link rel="stylesheet" href="css/footer.css">
+<link rel="stylesheet" href="css/pricing.css">
+
+
+<script>$(document).ready(function(){
+//	$('#nav123').localScroll(800);
+	
+	//.parallax(xPosition, speedFactor, outerHeight) options:
+	//xPosition - Horizontal position of the element
+	//inertia - speed to move relative to vertical scroll. Example: 0.1 is one tenth the speed of scrolling, 2 is twice the speed of scrolling
+	//outerHeight (true/false) - Whether or not jQuery should use it's outerHeight option to determine when a section is in the viewport
+//$(document).width() >= 1025
+if ($(document).width() >= 1025) {
+	$('.parallax-1').parallax("50%", 0.2);
+	$('.parallax-2').parallax("50%", 0.1);
+	$('.parallax-3').parallax("50%", 0.3);
+	$('.parallax-4').parallax("50%", 0.6);
+	} else { 
+		delete $('.parallax-1').parallax;
+	}
+})
+</script>	
+
+
+<script src="js/mijs.js"></script>
+<script src="js/mihomepage.js"></script>
+<script src="js/sec7svg.js"></script>
+	<script type="text/javascript" src="https://cdn.jsdelivr.net/particles.js/2.0.0/particles.min.js"></script>
+			<script type="text/javascript">
+  particlesJS('particles-js', {
+    'particles': {
+      'number': {
+        'value': 80,
+        'density': {
+          'enable': true,
+          'value_area': 800
+        }
+      },
+      'color': { 'value': '#ffffff' },
+      'shape': {
+        'type': 'circle',
+        'stroke': {
+          'width': 0,
+          'color': '#000000'
+        },
+        'polygon': { 'nb_sides': 5 },
+        'image': {
+          'src': 'img/github.svg',
+          'width': 100,
+          'height': 100
+        }
+      },
+      'opacity': {
+        'value': 0.5,
+        'random': false,
+        'anim': {
+          'enable': false,
+          'speed': 1,
+          'opacity_min': 0.1,
+          'sync': false
+        }
+      },
+      'size': {
+        'value': 3,
+        'random': true,
+        'anim': {
+          'enable': false,
+          'speed': 40,
+          'size_min': 0.1,
+          'sync': false
+        }
+      },
+      'line_linked': {
+        'enable': true,
+        'distance': 150,
+        'color': '#ffffff',
+        'opacity': 0.4,
+        'width': 1
+      },
+      'move': {
+        'enable': true,
+        'speed': 6,
+        'direction': 'none',
+        'random': false,
+        'straight': false,
+        'out_mode': 'out',
+        'bounce': false,
+        'attract': {
+          'enable': false,
+          'rotateX': 600,
+          'rotateY': 1200
+        }
+      }
+    },
+    'interactivity': {
+      'detect_on': 'canvas',
+      'events': {
+        'onhover': {
+          'enable': true,
+          'mode': 'grab'
+        },
+        'onclick': {
+          'enable': true,
+          'mode': 'push'
+        },
+        'resize': true
+      },
+      'modes': {
+        'grab': {
+          'distance': 140,
+          'line_linked': { 'opacity': 1 }
+        },
+        'bubble': {
+          'distance': 400,
+          'size': 40,
+          'duration': 2,
+          'opacity': 8,
+          'speed': 3
+        },
+        'repulse': {
+          'distance': 200,
+          'duration': 0.4
+        },
+        'push': { 'particles_nb': 4 },
+        'remove': { 'particles_nb': 2 }
+      }
+    },
+    'retina_detect': true
+  });
+
+</script>
+</body>
+</html>
